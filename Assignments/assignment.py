@@ -1,7 +1,14 @@
 import sys
 
-first = sys.argv[1]
-second = sys.argv[2]
+a = int(sys.argv[1])
+b = int(sys.argv[2])
+c = int(sys.argv[3])
 
-print(second)
-print(first)
+for i in range(a, b + 1):
+    counter = 0
+    for j in range(c + 1):
+        print(i ** j, " ", end="", sep="")
+        counter += i ** j
+    print("sum ", counter, end="", sep="")
+    counter = 0
+    print()

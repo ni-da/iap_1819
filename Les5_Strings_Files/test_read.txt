@@ -1,0 +1,7 @@
+To pretty-print a string, we wish to center it on a line. We
+do so by appending spaces to the left and the right of the string (in this way,
+filling the line). When the string is too long, we shorten it and indicate this by
+ending the string in . Write a function that performs this action, given
+the following parameters: the length of the line m, the maximum length of the
+string n (if a string has length larger than n, then only the first n−3 characters
+of the string are kept together with ), and the string to pretty-print.
