@@ -2,18 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assignments/1_Testing _123.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.1_Strings_CountingWords.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.2_Strings_pretty_print.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.3_Strings_Palindrome_sentences.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.4_Strings _Write_words.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.5_Files_Strings_ReadCount_linePerline.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/test_read.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assignments/assignment.py" afterPath="$PROJECT_DIR$/Assignments/assignment.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iap_1718/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ex_1.16A.py" afterPath="$PROJECT_DIR$/iap_1718/ex_1.16A.py" />
+      <change beforePath="$PROJECT_DIR$/ex_1.17.py" afterPath="$PROJECT_DIR$/iap_1718/ex_1.17.py" />
+      <change beforePath="$PROJECT_DIR$/ex_1.19.py" afterPath="$PROJECT_DIR$/iap_1718/ex_1.19.py" />
+      <change beforePath="$PROJECT_DIR$/ex_2.1.py" afterPath="$PROJECT_DIR$/iap_1718/ex_2.1.py" />
+      <change beforePath="$PROJECT_DIR$/ex_2.2.py" afterPath="$PROJECT_DIR$/iap_1718/ex_2.2.py" />
+      <change beforePath="$PROJECT_DIR$/ex_2.3.py" afterPath="$PROJECT_DIR$/iap_1718/ex_2.3.py" />
+      <change beforePath="$PROJECT_DIR$/ex_3.17.py" afterPath="$PROJECT_DIR$/iap_1718/ex_3.17.py" />
+      <change beforePath="$PROJECT_DIR$/ex_4.7_b.py" afterPath="$PROJECT_DIR$/iap_1718/ex_4.7_b.py" />
+      <change beforePath="$PROJECT_DIR$/ex_4.7_c.py" afterPath="$PROJECT_DIR$/iap_1718/ex_4.7_c.py" />
+      <change beforePath="$PROJECT_DIR$/ex_4.8.py" afterPath="$PROJECT_DIR$/iap_1718/ex_4.8.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.1.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.1.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.11.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.11.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.13.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.13.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.14_Hangman.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.14_Hangman.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.3.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.3.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.4.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.4.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.6.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.6.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.7.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.7.py" />
+      <change beforePath="$PROJECT_DIR$/ex_5.9.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.9.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.1.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.1.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.2_fibonacci.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.2_fibonacci.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.3_unique.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.3_unique.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.3_uniqueString.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.3_uniqueString.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.4.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.4.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.7.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.7.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.8_luckyNr.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.8_luckyNr.py" />
+      <change beforePath="$PROJECT_DIR$/ex_7.9_unique.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.9_unique.py" />
+      <change beforePath="$PROJECT_DIR$/examples.py" afterPath="$PROJECT_DIR$/iap_1718/examples.py" />
+      <change beforePath="$PROJECT_DIR$/exmpl_8.1.py" afterPath="$PROJECT_DIR$/iap_1718/exmpl_8.1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,58 +113,7 @@
     <SUITE FILE_PATH="coverage/iap$ex_3_8a.coverage" NAME="ex_3.8a Coverage Results" MODIFIED="1537783643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex5.6_Strings_String_replace.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex5.3_Strings_Palindrome_sentences.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.3_Strings_Palindrome_sentences.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex5.4_Strings _Write_words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.4_Strings _Write_words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex5.5_Files_Strings_ReadCount_linePerline.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.5_Files_Strings_ReadCount_linePerline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex_5.7.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -249,7 +216,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,25 +223,22 @@
               <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
-              <item name="Les5_Strings_Files" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NidaI\Documents\GitHub\iap_1819\iap_1718" />
       <recent name="C:\Users\NidaI\Documents\GitHub\iap_1819\Les5_Strings_Files" />
       <recent name="C:\Users\NidaI\Documents\GitHub\iap_1819\Assignments" />
       <recent name="C:\Users\NidaI\PycharmProjects\iap\Les2_BasicIteration_turtle" />
@@ -425,7 +388,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163588" sideWeight="0.29573935" order="7" side_tool="true" content_ui="tabs" />
@@ -433,7 +395,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -504,7 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex_2.3.py">
+    <entry file="file://$PROJECT_DIR$/iap_1718/ex_2.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
@@ -812,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="180">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding />
         </state>
       </provider>
