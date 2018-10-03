@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/Solver.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/test_solver.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assignments/chalc.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +27,7 @@
     <SUITE FILE_PATH="coverage/iap$ex_1_20.coverage" NAME="ex_1.20 Coverage Results" MODIFIED="1537366079559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap$ex_2_4.coverage" NAME="ex_2.4 Coverage Results" MODIFIED="1537529408321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_3_13_Iteration_CountEvenDigits.coverage" NAME="ex_3.13_Iteration_CountEvenDigits Coverage Results" MODIFIED="1537794353712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
+    <SUITE FILE_PATH="coverage/iap_1819$chalc.coverage" NAME="chalc Coverage Results" MODIFIED="1538576166826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
     <SUITE FILE_PATH="coverage/iap$ex_3_12a_Iteration_CountLetters.coverage" NAME="ex_3.12a_Iteration_CountLetters Coverage Results" MODIFIED="1537795803505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap_1819$ex5_6_Strings_String_replace.coverage" NAME="ex5.6_Strings_String_replace Coverage Results" MODIFIED="1538400847341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_5_1.coverage" NAME="ex_5.1 Coverage Results" MODIFIED="1532958902279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -88,7 +87,30 @@
     <SUITE FILE_PATH="coverage/iap$ex_3_8a.coverage" NAME="ex_3.8a Coverage Results" MODIFIED="1537783643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="chalc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignments/chalc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_Testing _123.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignments/1_Testing _123.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Les1/ex_1.20.py" />
         <option value="$PROJECT_DIR$/Les1/ex_1.22.py" />
         <option value="$PROJECT_DIR$/Les1/ex_1.21.py" />
         <option value="$PROJECT_DIR$/Les2_BasicIteration_turtle/turtle_test.py" />
@@ -161,6 +182,7 @@
         <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.1_Strings_CountingWords.py" />
         <option value="$PROJECT_DIR$/TestSamples/Solver.py" />
         <option value="$PROJECT_DIR$/TestSamples/test_solver.py" />
+        <option value="$PROJECT_DIR$/Assignments/chalc.py" />
       </list>
     </option>
   </component>
@@ -198,6 +220,11 @@
               <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,7 +259,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_solver.py">
+  <component name="RunManager" selected="Python.chalc">
+    <configuration name="chalc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="iap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/chalc.py" />
+      <option name="PARAMETERS" value="(280753358760681564339757235678+44401990950507323862319750358^((104669230520381878958434414407))/75488027789785072310217806973+186962410392420907779798924069*1018480806674720086850351688654^((734248374490785117976725022928))*1069403630644270891992455313762/528795022623572349856204025586/(847148577375032972071196951541+(((660797074809280321016465307428-((((668354979147905160300464534678)/(1191307177010773165688750062321)-((1106579035937872693429243771685+408371131800123817749253173725*488463518324743574791162958143)))-((992908443210193914134506209631))))^185614828436988491791985248239-1091165086993646624062493977419+(152318657737706179048502908194)%1237478392099998230682813394555*536847482354085201884638810061%741710549770877842697396707130%353367553003107349793109568688%80592908782065275655980917374/259894666675332974895778147246+851090820479102014494165252708%721571313902712123002922637826^((862152409001531196190507787350)%458785329005211330278369367994))*1225317282280603273425870904450))%906796440515662095578248908682)/1194710010515997272499945448413^(964799038903291475948738282289)+117763326973464138807750785725/402375603937083229689836438700*207506333731429290621687236277)-513426245746650907136585807148*836562384175135444603174483305 8/9^4%7*4^6+(7)+5^9^2+9-5/10%1-9-3+6*3/6+4/6^2^6^10+9%5%10+3^6-2%2%2^(3*5/1/2%(4)%3/10+1*1-7/1+2*((9)*3*7*9^2*((9)%8*6/1^5^7/10%8/7*5)*9)%(4%2%(7)^6%8)/3/(10)-2%8+3^6-10^4%6-9/2-7/3%4*8%5+3+7/7/(5)*10%3%(10)-(6)*4/7/9/((3))*5+9*2+9/1/9+9-10%6*4+7+3-8^4*4%3-5%10+7^2+5-2/(6)/3*(4)+3*5/2+1+8%10%10^4%5^9*2-3+6+2+(6)^8^2*7-6-7+9^6^5/8+2-8^6+((9))^3*10-10-(1)-(4%(4)%1^2-6/(1)%(7*8-2%5%10*7%6-3%8-5-10-10*1/4^1/7*3-9%4^6^1-7-9/4^7*6/7*8/4%1+(1/9)/(3%3+2)%1-2^8+2-3*9+5/6-6-10*(8*2)/6*1%5+6-4/2^1*10-10+1%8-8*7*2%9*1%5-8-5+8*4^4/1-7*8/(2)+(8+2+1/5%2+3)/10+8*6-5-3+10*5+9/5%9/2/9/1*8*6*9%2-8^9+7+9%4+6-4*5^9^10*5^7/7^6*5-8/2/(10)*2%10*7^7+9^(8^3-3)%1+6+9/10/1^8^5+1+4+1/7/4-9/6%10/4^5+(4+8)/(9)-8*6+5%3*5%4-10*(1+2%9)-4%2^4-1+9-10-9/10^4^6*(2)/9%7+6-3+7/4-6+9/6+3+10+7-5-3)%2^9%10-5+(8)*8/3%6*8%5-10%3^6^2/(8)/6-4+4)^7+2*2^3/7-4^(3/10)-3%7-8*2/1^7-2/10^7-8+9^9/2+5-8/9^1-2/(5/4-6)/5-6+5+8*3*9/7%1^9+7+((2))%1^1-9^5-1^8*(2%1-9%(9*10%2*7^8%8)^6^4*7^9*8*5%7+10/6^2*10*6*9%8)%8-(10*7^3^2/10/10/8^2%2*5^(1)/9*7*6/1+6-7-(9)%8/4-1-5+7)*9^1^2%10-4+(10)*1-2%3^8*10^5+10*6/6+3%4+(9+1*3)+1*4+4+7*2^9/6/2/1/(3/3)/2+4/1-7-9-3%3/10+1+3+1/9/8-4-7^4%(3/9%(2+4/6%2))+7/7*8-1-4^7*2*(8/(7)%9*9/(8)-10^9+10/7-5/3^1^10%9^6%5*3%(2)-6+7^2%9*7-6*4)*1%8-10/7/4*8%8*7*(8)*3*4^1%2^5%6^1%1^5+(4/5-3)*9+5^3*6^3-(5)*2/10*6+5/2^(1)+9-3/1*10-((1))*(5)/10*6+((10%1)*4)^1^8+7+8-5%5%2/7*(1^5^6^7%7%8/6)^8%8+9+6%10%1/9/(5)^3-6/4^3%10-8-2-1^1^6-3%4^(8+3+2/2-1-10^6)%5/2-2-9*10%8*2%9/8*8+10)-2-4 (((((((((((((8))))))))*1)/((((((((((((((((9))/(((9%(1)))*(((((((10))))))^((4)-6%(7)))^((((((9)))))))))))))))))))))))^(((9)))^(6)^(((((((((2)))%5))))))/((((3))))))%((9)/((10))-((((((((((2)*(1)))))))%1))))%((((((((((8%(((((((10%((2)^(((((((10))%((((((((((((10))))))))-(2))%2))))))))))*(4/(((4))/(((((6))))))*2)+((10*(8)))/(((10))-2)-(((2)))))%((((1)))))))+(((((((5)))))%((4))))+(((9)))+((((((10%(10-7)))))))-((((4))))%6))))))))))^(((9)%((6%9))))-(((((((3^(((4))-((((((((5))))))))^4^((((((((((((8/((((((((((((((((((((5))))))))+((((((((((((2))))))))))))))))))))))))))))*((8)))))+9))-(((((((((((((((((((((((((((((((((((((9))%((3))))))))-(1)*((4))+(((((2)))))))))))))))))))%(((10)))))))))))))))))*((((((((((((((((((((((7%(((((3))))))/((((2)))))))))))))))))))))^(((9%((((((6)))^((((((1)))))/((((((4-(((((((((5)))*7*(6)/3)+9-(((((((8))+((((((((4))/((((5))))))))))))))+((7))+(((((8)))))-(2%((7))))-(((((3)/((((((6)))))))))))))))))-(((((((((((((4))))))))))))))+((((((1))))))))))^(4)/((((((((1)))))))))))))))+((((8))))-((3))))))+((2)))))-((((((((7/6)^((((((1)%2)))))))/(((((((((3)))))))+9%(((((((((3))))))))))))))))^((8))^(((((1)))))*3))))^((((((3)))*5^((4)%7))))%2*(((((3))))-6)/((6))^((1))%(6)/(((((((((5)))))))))/1+(((((((8)))-((((5))))*((((((((((((((6/6-(((8/(((7))/(((5))))/(3))+(5)))+(((((((((5)))))/(4*8)))))))%(((5)))))))/((((6))%((((((((((((((((4))))^((3)))+(8))))/1))-6)/(((((((7))))))))/((((((((((((((8))))))))))))))))))-3)))^((((8)-((((1)))))))))*((4)%((((((((3)))))+(((1))^(((((((8)))))))-((((((10))))))/((((((8)))-(7))))-(6)))))))))))*((10))+5)-((9^5))^((((4^(5+((((3^10))))))))))))+((8)+((6)%((10/7-(((((((((5))*((3)))%10))))))))))*((((((((((10+(5))))))))-(((((2)))))))/((((((1)/((3)+(4)^(5)))))))+(((((((((((8)%((((((9))))))))+(((7)))))))))%(((1%(((((1)))))*7)))))/((((((((8+(((9/((((6))))))))))))))))*(3)/(4%3)%((1)+((((((((4)))))))))))))*1) &quot;niet alleen correct printen&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="ex5.1_Strings_CountingWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,25 +312,6 @@
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ex5_Files_Strings_ReadCount_linePerline" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les5_Strings_Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="iap" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\NidaI\Documents\GitHub\iap_1819\Les5_Strings_Files\ex5.5_Files_Strings_ReadCount_linePerline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,19 +352,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex5_Files_Strings_ReadCount_linePerline" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex_5.7" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex_5.7" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
+      <item index="3" class="java.lang.String" itemvalue="Python.chalc" />
       <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_solver.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_solver.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex_5.7" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex5_Files_Strings_ReadCount_linePerline" />
+        <item index="0" class="java.lang.String" itemvalue="Python.chalc" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_solver.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex_5.7" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
       </list>
     </recent_temporary>
   </component>
@@ -372,12 +399,12 @@
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163588" sideWeight="0.30200502" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163588" sideWeight="0.697995" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37862796" sideWeight="0.30827066" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37862796" sideWeight="0.6917293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -406,13 +433,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Les1/ex_1.18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les1/ex_1.20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -673,13 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/1_Testing _123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.2_Strings_pretty_print.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -762,6 +775,24 @@
           <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1_Testing _123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/chalc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
