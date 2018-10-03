@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/iap_1718/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/ex_1.16A.py" afterPath="$PROJECT_DIR$/iap_1718/ex_1.16A.py" />
-      <change beforePath="$PROJECT_DIR$/ex_1.17.py" afterPath="$PROJECT_DIR$/iap_1718/ex_1.17.py" />
-      <change beforePath="$PROJECT_DIR$/ex_1.19.py" afterPath="$PROJECT_DIR$/iap_1718/ex_1.19.py" />
-      <change beforePath="$PROJECT_DIR$/ex_2.1.py" afterPath="$PROJECT_DIR$/iap_1718/ex_2.1.py" />
-      <change beforePath="$PROJECT_DIR$/ex_2.2.py" afterPath="$PROJECT_DIR$/iap_1718/ex_2.2.py" />
-      <change beforePath="$PROJECT_DIR$/ex_2.3.py" afterPath="$PROJECT_DIR$/iap_1718/ex_2.3.py" />
-      <change beforePath="$PROJECT_DIR$/ex_3.17.py" afterPath="$PROJECT_DIR$/iap_1718/ex_3.17.py" />
-      <change beforePath="$PROJECT_DIR$/ex_4.7_b.py" afterPath="$PROJECT_DIR$/iap_1718/ex_4.7_b.py" />
-      <change beforePath="$PROJECT_DIR$/ex_4.7_c.py" afterPath="$PROJECT_DIR$/iap_1718/ex_4.7_c.py" />
-      <change beforePath="$PROJECT_DIR$/ex_4.8.py" afterPath="$PROJECT_DIR$/iap_1718/ex_4.8.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.1.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.1.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.11.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.11.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.13.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.13.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.14_Hangman.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.14_Hangman.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.3.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.3.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.4.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.4.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.6.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.6.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.7.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.7.py" />
-      <change beforePath="$PROJECT_DIR$/ex_5.9.py" afterPath="$PROJECT_DIR$/iap_1718/ex_5.9.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.1.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.1.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.2_fibonacci.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.2_fibonacci.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.3_unique.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.3_unique.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.3_uniqueString.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.3_uniqueString.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.4.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.4.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.7.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.7.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.8_luckyNr.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.8_luckyNr.py" />
-      <change beforePath="$PROJECT_DIR$/ex_7.9_unique.py" afterPath="$PROJECT_DIR$/iap_1718/ex_7.9_unique.py" />
-      <change beforePath="$PROJECT_DIR$/examples.py" afterPath="$PROJECT_DIR$/iap_1718/examples.py" />
-      <change beforePath="$PROJECT_DIR$/exmpl_8.1.py" afterPath="$PROJECT_DIR$/iap_1718/exmpl_8.1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/Solver.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/test_solver.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,6 +58,7 @@
     <SUITE FILE_PATH="coverage/iap$ex_5_9.coverage" NAME="ex_5.9 Coverage Results" MODIFIED="1533047784480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_4_8.coverage" NAME="ex_4.8 Coverage Results" MODIFIED="1532728025282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8b.coverage" NAME="ex_3.8b Coverage Results" MODIFIED="1537783934780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
+    <SUITE FILE_PATH="coverage/iap_1819$Unittests_in_test_solver_py.coverage" NAME="Unittests in test_solver.py Coverage Results" MODIFIED="1538565826155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestSamples" />
     <SUITE FILE_PATH="coverage/iap$ex_3_15_Conditionals_CalculateAge.coverage" NAME="ex_3.15_Conditionals_CalculateAge Coverage Results" MODIFIED="1537795793849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$ex_1_18.coverage" NAME="ex_1.18 Coverage Results" MODIFIED="1537200145380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap$ex_7_2_fibonacci.coverage" NAME="ex_7.2_fibonacci Coverage Results" MODIFIED="1533133979550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -135,8 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex_1.18.py" />
-        <option value="$PROJECT_DIR$/Les1/ex_1.18.py" />
         <option value="$PROJECT_DIR$/Les1/ex_1.20.py" />
         <option value="$PROJECT_DIR$/Les1/ex_1.22.py" />
         <option value="$PROJECT_DIR$/Les1/ex_1.21.py" />
@@ -186,6 +159,8 @@
         <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" />
         <option value="$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py" />
         <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.1_Strings_CountingWords.py" />
+        <option value="$PROJECT_DIR$/TestSamples/Solver.py" />
+        <option value="$PROJECT_DIR$/TestSamples/test_solver.py" />
       </list>
     </option>
   </component>
@@ -257,26 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex5.1_Strings_CountingWords">
-    <configuration name="ex4_Strings _Write_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les5_Strings_Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="iap" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\NidaI\Documents\GitHub\iap_1819\Les5_Strings_Files\ex5.4_Strings _Write_words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_solver.py">
     <configuration name="ex5.1_Strings_CountingWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,20 +309,35 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unittests in test_solver.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="iap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestSamples/test_solver.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex4_Strings _Write_words" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex5_Files_Strings_ReadCount_linePerline" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex_5.7" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex5_Files_Strings_ReadCount_linePerline" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex_5.7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_solver.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex_5.7" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex5_Files_Strings_ReadCount_linePerline" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex4_Strings _Write_words" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_solver.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex5.1_Strings_CountingWords" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex_5.7" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex5.6_Strings_String_replace" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex5_Files_Strings_ReadCount_linePerline" />
       </list>
     </recent_temporary>
   </component>
@@ -386,12 +357,23 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_solver_py - 2018.10.03 at 13h 22m 40s.xml">
+      <configuration name="Unittests in test_solver.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_solver_py - 2018.10.03 at 13h 23m 44s.xml">
+      <configuration name="Unittests in test_solver.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_solver_py - 2018.10.03 at 13h 23m 46s.xml">
+      <configuration name="Unittests in test_solver.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163588" sideWeight="0.29573935" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22163588" sideWeight="0.70426065" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163588" sideWeight="0.30200502" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163588" sideWeight="0.697995" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -424,20 +406,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Les1/ex_1.17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les1/ex_1.16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les1/ex_1.18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -777,6 +745,24 @@
         <state relative-caret-position="180">
           <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSamples/Solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSamples/test_solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
