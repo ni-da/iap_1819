@@ -1,0 +1,2 @@
+"year"," month","carrier","carrier_name","airport","airport_name","arr_flights","arr_del15","carrier_ct"," weather_ct","nas_ct","security_ct","late_aircraft_ct","arr_cancelled","arr_diverted"," arr_delay"," carrier_delay","weather_delay","nas_delay","security_delay","late_aircraft_delay",
+2003,6,"AA","American Airlines Inc.","ABQ","Albuquerque, NM: Albuquerque International Sunport",307.00,56.00,14.68,10.79,19.09,1.48,9.96,1.00,1.00,2530.00,510.00,621.00,676.00,25.00,698.00,
