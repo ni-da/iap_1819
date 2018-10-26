@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assignments/monamix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay1_howNotToFly/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay1_howNotToFly/analyze_flights.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay1_howNotToFly/dataset.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay1_howNotToFly/dataset_junjul.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay1_howNotToFly/test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay1_howNotToFly/testData.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/compute_factorial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.2_Recursion_withoutRecursion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.4_Recursion_input_withoutRecursion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.6_StringToInt.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.7_turtle.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex_9.9_DNA_combinations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/fib_nr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assignments/monamixx.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Les2_BasicIteration_turtle/ex_2.11_triplet.py" afterPath="$PROJECT_DIR$/Les2_BasicIteration_turtle/ex_2.11_triplet.py" />
+      <change beforePath="$PROJECT_DIR$/Assignments/monamix.py" afterPath="$PROJECT_DIR$/Assignments/monamix.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,6 +23,7 @@
     <SUITE FILE_PATH="coverage/iap_1819$ex_2_6_pyramid.coverage" NAME="ex_2.6_pyramid Coverage Results" MODIFIED="1540202441041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_1_Lists_OrderedList.coverage" NAME="ex6.1_Lists_OrderedList Coverage Results" MODIFIED="1539251317489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
     <SUITE FILE_PATH="coverage/iap$ex_2_9b_looping_calculate_product.coverage" NAME="ex_2.9b_looping_calculate_product Coverage Results" MODIFIED="1537532089897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+    <SUITE FILE_PATH="coverage/iap_1819$monamixx.coverage" NAME="monamixx Coverage Results" MODIFIED="1540545507075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
     <SUITE FILE_PATH="coverage/iap$ex_1_16.coverage" NAME="ex_1.16 Coverage Results" MODIFIED="1537190766722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap_1819$reverse_a_list.coverage" NAME="reverse_a_list Coverage Results" MODIFIED="1540414020866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_5_4.coverage" NAME="ex_5.4 Coverage Results" MODIFIED="1532964139768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -54,7 +42,7 @@
     <SUITE FILE_PATH="coverage/iap$2_12a_looping_calculate_factorial.coverage" NAME="2.12a_looping_calculate_factorial Coverage Results" MODIFIED="1537536065240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$Woordzoeker.coverage" NAME="Woordzoeker Coverage Results" MODIFIED="1534210025620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
     <SUITE FILE_PATH="coverage/iap$ex_7_7.coverage" NAME="ex_7.7 Coverage Results" MODIFIED="1533249484647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/iap_1819$bisqode.coverage" NAME="bisqode Coverage Results" MODIFIED="1539795099940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
+    <SUITE FILE_PATH="coverage/iap_1819$bisqode.coverage" NAME="bisqode Coverage Results" MODIFIED="1540498565983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
     <SUITE FILE_PATH="coverage/iap_1819$ex4_Strings__Write_words.coverage" NAME="ex4_Strings _Write_words Coverage Results" MODIFIED="1538396555302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_1_16A.coverage" NAME="ex_1.16A Coverage Results" MODIFIED="1532630562436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_7_1.coverage" NAME="ex_7.1 Coverage Results" MODIFIED="1533132009777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -66,7 +54,7 @@
     <SUITE FILE_PATH="coverage/iap$ex_2_6_pyramid.coverage" NAME="ex_2.6_pyramid Coverage Results" MODIFIED="1537528349989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_5_9.coverage" NAME="ex_5.9 Coverage Results" MODIFIED="1533047784480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_3_Lists_UniqueElements.coverage" NAME="ex6.3_Lists_UniqueElements Coverage Results" MODIFIED="1539254857040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
-    <SUITE FILE_PATH="coverage/iap_1819$test.coverage" NAME="test Coverage Results" MODIFIED="1539267178808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
+    <SUITE FILE_PATH="coverage/iap_1819$test.coverage" NAME="test Coverage Results" MODIFIED="1540478286613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
     <SUITE FILE_PATH="coverage/iap$ex_7_2_fibonacci.coverage" NAME="ex_7.2_fibonacci Coverage Results" MODIFIED="1533133979550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_2_7_aligned_multiplication.coverage" NAME="ex_2.7_aligned_multiplication Coverage Results" MODIFIED="1537530500831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_5_14_Hangman.coverage" NAME="ex_5.14_Hangman Coverage Results" MODIFIED="1533130471253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -76,13 +64,14 @@
     <SUITE FILE_PATH="coverage/iap$examples.coverage" NAME="examples Coverage Results" MODIFIED="1533128889377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_2_8_xy_matrix.coverage" NAME="ex_2.8_xy_matrix Coverage Results" MODIFIED="1537530975891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_3_10_input.coverage" NAME="ex_3.10_input Coverage Results" MODIFIED="1537786061570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
-    <SUITE FILE_PATH="coverage/iap_1819$monamix.coverage" NAME="monamix Coverage Results" MODIFIED="1540422864306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
+    <SUITE FILE_PATH="coverage/iap_1819$monamix.coverage" NAME="monamix Coverage Results" MODIFIED="1540545666280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
     <SUITE FILE_PATH="coverage/iap$ex_5_11.coverage" NAME="ex_5.11 Coverage Results" MODIFIED="1533051096667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$ex5_Files_Strings_ReadCount_linePerline.coverage" NAME="ex5_Files_Strings_ReadCount_linePerline Coverage Results" MODIFIED="1538397445264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_5_7.coverage" NAME="ex_5.7 Coverage Results" MODIFIED="1533045039530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_2_5.coverage" NAME="ex_2.5 Coverage Results" MODIFIED="1537526703829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_7_4.coverage" NAME="ex_7.4 Coverage Results" MODIFIED="1533244473724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_12c.coverage" NAME="ex_1.12c Coverage Results" MODIFIED="1537540320520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+    <SUITE FILE_PATH="coverage/iap_1819$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1540468724675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_2_11_triplet.coverage" NAME="ex_2.11_triplet Coverage Results" MODIFIED="1540211509479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_4_7_c.coverage" NAME="ex_4.7_c Coverage Results" MODIFIED="1532726917787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8a.coverage" NAME="ex_3.8a Coverage Results" MODIFIED="1537783643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
@@ -130,12 +119,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="monamix.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignments/monamix.py">
+      <file leaf-file-name="minesweeper.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="280">
+              <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+              <folding>
+                <element signature="e#62#213#0" expanded="false" />
+                <element signature="e#771#1894#0" expanded="false" />
+                <element signature="e#1922#1993#0" expanded="false" />
+                <element signature="e#2024#2204#0" expanded="false" />
+                <element signature="e#2235#2357#0" expanded="false" />
+                <element signature="e#2397#2401#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,8 +148,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>jmf</find>
-      <find>pr</find>
-      <find>print</find>
       <find>validate_input</find>
       <find>1011100001000110110</find>
       <find>Error</find>
@@ -161,6 +155,11 @@
       <find>Delayed minutes: 14899564</find>
       <find>Columbus, MS: Golden Triangle Regional</find>
       <find>AA</find>
+      <find>print</find>
+      <find>get_name</find>
+      <find>Inhabitant A:is_not:5 (id: 1) is the new Monarch</find>
+      <find>min A:1 D:4 F:3 H:2 J:8</find>
+      <find>pr</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,9 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.8b.py" />
-        <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.8c.py" />
-        <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.10_input.py" />
         <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.11a_Iteration_ReverseString.py" />
         <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.11b_Iteration_Palindrome.py" />
         <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.12a_Iteration_CountLetters.py" />
@@ -219,6 +215,9 @@
         <option value="$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py" />
         <option value="$PROJECT_DIR$/Les7_Recursion/compute_factorial.py" />
         <option value="$PROJECT_DIR$/Les7_Recursion/fib_nr.py" />
+        <option value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
+        <option value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/test.py" />
+        <option value="$PROJECT_DIR$/Assignments/monamixx.py" />
         <option value="$PROJECT_DIR$/Assignments/monamix.py" />
       </list>
     </option>
@@ -229,8 +228,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -259,7 +258,7 @@
             <path>
               <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="ChallengeDay2_MineSweeper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,40 +299,21 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.monamix">
-    <configuration name="compute_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bisqode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les7_Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les7_Recursion/compute_factorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ex_9.9_DNA_combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les7_Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="iap" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les7_Recursion/ex_9.9_DNA_combinations.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/bisqode.py" />
+      <option name="PARAMETERS" value="abd" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -357,6 +337,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="minesweeper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="iap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
+      <option name="PARAMETERS" value="1001,1010,1100,0001,0000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="monamix" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -376,21 +375,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="reverse_a_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="monamixx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les7_Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/monamixx.py" />
+      <option name="PARAMETERS" value="AA:85 AB:129 AC:0 AD:130 AE:97 AF:131 AG:1 AH:132 AI:64 AJ:133 AK:2 AL:134 AM:98 AN:135 AO:3 AP:136 AQ:89 AR:137 AS:4 AT:138 AU:99 AV:139 AW:5 AX:140 AY:65 AZ:141 BA:6 BB:142 BC:100 BD:143 BE:7 BF:144 BG:80 BH:145 BI:8 BJ:146 BK:101 BL:147 BM:9 BN:148 BO:66 BP:149 BQ:10 BR:150 BS:102 BT:151 BU:11 BV:152 BW:90 BX:153 BY:12 BZ:154 CA:103 CB:155 CC:13 CD:156 CE:67 CF:157 CG:14 CH:158 CI:104 CJ:159 CK:15 CL:160 CM:87 CN:161 CO:16 CP:162 CQ:105 CR:163 CS:17 CT:164 CU:68 CV:165 CW:18 CX:166 CY:106 CZ:167 DA:19 DB:168 DC:91 DD:169 DE:20 DF:170 DG:107 DH:171 DI:21 DJ:172 DK:69 DL:173 DM:22 DN:174 DO:108 DP:175 DQ:23 DR:176 DS:81 DT:177 DU:24 DV:178 DW:109 DX:179 DY:25 DZ:180 EA:70 EB:181 EC:26 ED:182 EE:110 EF:183 EG:27 EH:184 EI:92 EJ:185 EK:28 EL:186 EM:111 EN:187 EO:29 EP:188 EQ:71 ER:189 ES:30 ET:190 EU:112 EV:191 EW:31 EX:192 EY:84 EZ:193 FA:32 FB:194 FC:113 FD:195 FE:33 FF:196 FG:72 FH:197 FI:34 FJ:198 FK:114 FL:199 FM:35 FN:200 FO:93 FP:201 FQ:36 FR:202 FS:115 FT:203 FU:37 FV:204 FW:73 FX:205 FY:38 FZ:206 GA:116 GB:207 GC:39 GD:208 GE:82 GF:209 GG:40 GH:210 GI:117 GJ:211 GK:41 GL:212 GM:74 GN:213 GO:42 GP:214 GQ:118 GR:215 GS:43 GT:216 GU:94 GV:217 GW:44 GX:218 GY:119 GZ:219 HA:45 HB:220 HC:75 HD:221 HE:46 HF:222 HG:120 HH:223 HI:47 HJ:224 HK:88 HL:225 HM:48 HN:226 HO:121 HP:227 HQ:49 HR:228 HS:76 HT:229 HU:50 HV:230 HW:122 HX:231 HY:51 HZ:232 IA:95 IB:233 IC:52 ID:234 IE:123 IF:235 IG:53 IH:236 II:77 IJ:237 IK:54 IL:238 IM:124 IN:239 IO:55 IP:240 IQ:83 IR:241 IS:56 IT:242 IU:125 IV:243 IW:57 IX:244 IY:78 IZ:245 JA:58 JB:246 JC:126 JD:247 JE:59 JF:248 JG:96 JH:249 JI:60 JJ:250 JK:127 JL:251 JM:61 JN:252 JO:79 JP:253 JQ:62 JR:254 JS:128 JT:255 JU:63 JV:256 JW:86" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -414,20 +413,41 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="6">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="iap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.sapher" />
       <item index="1" class="java.lang.String" itemvalue="Python.monamix" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex_9.9_DNA_combinations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.reverse_a_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.compute_factorial" />
-      <item index="5" class="java.lang.String" itemvalue="Python.fib_nr" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fib_nr" />
+      <item index="3" class="java.lang.String" itemvalue="Python.minesweeper" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="5" class="java.lang.String" itemvalue="Python.bisqode" />
+      <item index="6" class="java.lang.String" itemvalue="Python.monamixx" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.fib_nr" />
-        <item index="1" class="java.lang.String" itemvalue="Python.compute_factorial" />
-        <item index="2" class="java.lang.String" itemvalue="Python.reverse_a_list" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex_9.9_DNA_combinations" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.monamixx" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bisqode" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.minesweeper" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fib_nr" />
       </list>
     </recent_temporary>
   </component>
@@ -459,28 +479,27 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29074314" sideWeight="0.20125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29074314" sideWeight="0.79875" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18904825" sideWeight="0.20125" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.79875" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10539846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32594523" sideWeight="0.4975" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973614" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32594523" sideWeight="0.4975" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -497,34 +516,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assignments/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.2_Strings_pretty_print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/test_read.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/test_write.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.3_Strings_Palindrome_sentences.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -669,13 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/bisqode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="75" column="29" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -829,14 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les7_Recursion/compute_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -853,11 +829,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/bisqode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#498#0" expanded="false" />
+            <element signature="e#548#728#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/monamixx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/monamix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="222">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#62#213#0" expanded="false" />
+            <element signature="e#771#1894#0" expanded="false" />
+            <element signature="e#1922#1993#0" expanded="false" />
+            <element signature="e#2024#2204#0" expanded="false" />
+            <element signature="e#2235#2357#0" expanded="false" />
+            <element signature="e#2397#2401#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

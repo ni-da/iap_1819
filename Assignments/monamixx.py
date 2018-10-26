@@ -1,11 +1,11 @@
 import sys
 
 
-def get_number(a):
-    splitted = a.split(':')
-    number = (splitted[len(splitted) - 1])
-    if number.isdigit():
-        return int(number)
+def get_number(s):
+    s = s.split(":")
+    s = (s[len(s) - 1])
+    if s.isdigit():
+        return int(s)
     else:
         print("Identifiers should be numeric.")
         sys.exit()
@@ -19,40 +19,40 @@ def get_name(s):
     return str(s)
 
 
-def filter_min(numbersList):
-    new_list = []
+def local_min(numbersList):
+    min_list = []
     i = 0
     while i < len(numbersList):
         if i == 0:
             if get_number(numbersList[i]) < get_number(numbersList[i + 1]):
-                new_list.append(numbersList[i])
+                min_list.append(numbersList[i])
         elif i == (len(numbersList)) - 1:
             if get_number(numbersList[i]) < get_number(numbersList[i - 1]):
-                new_list.append(numbersList[i])
+                min_list.append(numbersList[i])
         else:
             if get_number(numbersList[i]) < get_number(numbersList[i - 1]) and get_number(numbersList[i]) < get_number(
                     numbersList[i + 1]):
-                new_list.append(numbersList[i])
+                min_list.append(numbersList[i])
         i += 1
-    return new_list
+    return min_list
 
 
-def filter_max(numbersList):
-    new_list = []
+def local_max(numbersList):
+    max_list = []
     i = 0
     while i < len(numbersList):
         if i == 0:
             if get_number(numbersList[i]) > get_number(numbersList[i + 1]):
-                new_list.append(numbersList[i])
+                max_list.append(numbersList[i])
         elif i == (len(numbersList)) - 1:
             if get_number(numbersList[i]) > get_number(numbersList[i - 1]):
-                new_list.append(numbersList[i])
+                max_list.append(numbersList[i])
         else:
             if get_number(numbersList[i]) > get_number(numbersList[i - 1]) and get_number(numbersList[i]) > get_number(
                     numbersList[i + 1]):
-                new_list.append(numbersList[i])
+                max_list.append(numbersList[i])
         i += 1
-    return new_list
+    return max_list
 
 
 if len(sys.argv) < 2:
@@ -60,16 +60,38 @@ if len(sys.argv) < 2:
 else:
     list = sys.argv[1:]
     while len(list) > 1:
-        list = filter_min(list)
+        # print min
+        list = local_min(list)
         print("min ", end="")
         for j in list:
             print(j, end=' ')
         print()
         if len(list) <= 1:
             break
-        list = filter_max(list)
+        # print max
+        list = local_max(list)
         print("max ", end="")
         for j in list:
             print(j, end=' ')
         print()
     print("Inhabitant", get_name(list[0]), "(id:", str(get_number(list[0])) + ") is the new Monarch")
+
+# input_list = list = sys.argv[1:]
+# prev_ele = ''
+# for a in range(len(input_list)):
+#     curr_ele = input_list[a]
+#     # print(curr_ele)
+#     if a != len(input_list) - 1:
+#         next_ele = input_list[a + 1]
+#     if a == 0:
+#         if curr_ele < next_ele:
+#             pass
+#             print(curr_ele)
+#     else:
+#         print(prev_ele, curr_ele, next_ele)
+#         print(prev_ele.split(":")[1], curr_ele.split(":")[1], next_ele.split(":")[1])
+#         if prev_ele.split(":")[1] > curr_ele.split(":")[1] < next_ele.split(":")[1]:
+#             print(curr_ele)
+#
+#     prev_ele = curr_ele
+#
