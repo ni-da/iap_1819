@@ -8,7 +8,8 @@
 # a digit. A row can only contain a 0 or 1.
 # * width, length, mines: all 3 inputs must be a digit. The number of mines must be in the
 # range of width*length.
-
+# While playing; the provided positions(x,y) must be valid digits, still hidden. (not reveald) and
+# in the range of gameboard.
 import sys, random
 
 
@@ -55,7 +56,7 @@ def generate_random_mines(gameboard_width, gameboard_length, minesToGenerate):
 def generate_game_by_random(gameboard_width, gameboard_length, minesToGenerate):
     global position_mines
     position_mines = generate_random_mines(gameboard_width, gameboard_length, minesToGenerate)
-    print(position_mines)
+    # print(position_mines)
     for y in range(gameboard_length):
         row = []
         for x in range(gameboard_width):
@@ -125,6 +126,7 @@ def get_all_neighbors_information_by_current_position(currX, currY):
                 if field[2] != "*":
                     if field not in player_attempts:
                         player_attempts.append(field)
+                        player_inputs.append((field[0], field[1]))
 
 
 # It fetches information about every possible neighbor. If a neighbor is 0 if fetches
@@ -143,6 +145,7 @@ def get_revealing_field(currX, currY):
             else:
                 if field not in player_attempts:
                     player_attempts.append(field)
+                    player_inputs.append((field[0], field[1]))
 
 
 # prints the gameboard
@@ -196,19 +199,18 @@ def handle_game_over():
 
 # Validates the given input and prints the gameboard.
 def handle_input(x, y):
-    if len(player_attempts) + 1 == len(fields_content) - len(position_mines):
+    get_revealing_field(x, y)
+    if len(player_attempts) == len(fields_content) - len(position_mines):
         print("Congratulations, you have won!")
         print_gameboard(gameboard_length, gameboard_width, revealing_fields=fields_content)
         sys.exit()
     else:
-        get_revealing_field(x, y)
         print_gameboard(gameboard_length, gameboard_width, revealing_fields=player_attempts)
 
 
 def validate_minefieldstr(minefieldstr):
     length_first_row = len(minefieldstr[0])
     for row in minefieldstr:
-        print(length_first_row, len(row))
         if length_first_row != len(row):
             print("All rows of minefieldstring should be of same length.")
             return False
@@ -217,7 +219,7 @@ def validate_minefieldstr(minefieldstr):
                 print("A minefieldstring should only contain digits.")
                 return False
             else:
-                if int(element) != 0 or int(element) != 1:  # start here
+                if not (int(element) == 0 or int(element) == 1):  # start here
                     print("A minefieldstring should only contain a 0 or 1.")
                     return False
     return True
@@ -250,11 +252,27 @@ def print_arguments_options():
     print(option2)
 
 
+def valid_xy_input(x, y):
+    if not x.isdigit() or not y.isdigit():
+        print(x, ',', y, "field doesn't contain a valid digit! Try another field position.")
+        return False
+    x = int(x)
+    y = int(y)
+    if (x, y) in player_inputs:
+        print(x, ',', y, "field is already reveald! Try another field position.")
+        return False
+    if (x < 1 or y < 1) or (x > gameboard_width or y > gameboard_length):
+        print(x, ',', y, "field is not in the range of gameboard! Try another field position.")
+        return False
+    return True
+
+
 fields_content = []
 all_positions = []
 position_mines = []
 
 player_attempts = []
+player_inputs = []
 
 neighbours_fields = []
 neighbors_information = []
@@ -282,16 +300,26 @@ elif len(sys.argv) == 4:
         minesToGenerate = int(sys.argv[3])
         generate_game_by_random(gameboard_width, gameboard_length, minesToGenerate)
     else:
+        print("Provided argumants are not valid!")
         print_arguments_options()
         sys.exit()
-
-fill_content_in_fields()
+else:
+    print("Provided argumants are not valid!")
+    print_arguments_options()
+    sys.exit()
 
 # start game
+fill_content_in_fields()
 print_gameboard(gameboard_length, gameboard_width)
+
 while True:
-    x = int(input("Give an x: "))
-    y = int(input("Give an y: "))
+    x = input("Give an x: ")
+    y = input("Give an y: ")
+    while not valid_xy_input(x, y):
+        x = input("Give an x: ")
+        y = input("Give an y: ")
+    x = int(x)
+    y = int(y)
     if not game_over(x, y):
         handle_input(x, y)
         pass
