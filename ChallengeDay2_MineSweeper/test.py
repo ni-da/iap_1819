@@ -45,6 +45,49 @@ def get_all_neighbors(all_positions):
     return all_neighbors
 
 
-all_pos = generate_all_positions(2, 2)
-neb = get_all_neighbors(all_pos)
+def get_all_neighbors_by_current_position(currX, currY):
+    all_neighbors = []
+    x = currX + 1
+    y = currY - 1
+    if x > 0 and y > 0:
+        if x <= len(all_positions[0]) and y <= len(all_positions):
+            all_neighbors.append((x, y))
+    x = currX - 1
+    y = currY + 1
+    if x > 0 and y > 0:
+        if x <= len(all_positions[0]) and y <= len(all_positions):
+            all_neighbors.append((x, y))
+    for j in range(3):
+        for i in (-1, 1):
+            if j == 0:
+                x = i + currX
+                y = i + currY
+            elif j == 1:
+                x = currX
+                y = currY + i
+            elif j == 2:
+                x = currX + i
+                y = currY
+            if x > 0 and y > 0:
+                if x <= len(all_positions[0]) and y <= len(all_positions):
+                    all_neighbors.append((x, y))
+    return all_neighbors
+
+
+# def get_all_neighbors_information_by_current_position(currX, currY):
+#     neighbors = get_all_neighbors_by_current_position(currX, currY)
+#     neighbors.append((currX, currY))
+#     for neb in neighbors:
+#         for field in fields_content:
+#             if neb[0] == field[0] and neb[1] == field[1]:
+#                 if field[2] == 0:
+#                     get_all_neighbors_information_by_current_position(field[0], field[1])
+#                 elif field[2] != "*":
+#                     if field not in neighbors_information:
+#                         player_attempts.append(field)
+
+
+all_positions = generate_all_positions(4, 5)
+# print(all_positions)
+neb = get_all_neighbors_by_current_position(3, 3)
 print(neb)
