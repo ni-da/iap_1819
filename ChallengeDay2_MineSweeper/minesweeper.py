@@ -239,7 +239,7 @@ def validate_minefieldarguments(arguments):
     if not minesToGenerate.isdigit():
         print("The provided number of mines is not a valid digit.")
         return False
-    if minesToGenerate > gameboard_width * gameboard_length:
+    if int(minesToGenerate) > int(gameboard_width) * int(gameboard_length):
         print("The amount of mines must be in the range of gameboard's width * length.")
         return False
     return True
