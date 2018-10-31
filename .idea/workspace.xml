@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/nested_list.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" afterPath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,12 +68,13 @@
     <SUITE FILE_PATH="coverage/iap$ex_2_5.coverage" NAME="ex_2.5 Coverage Results" MODIFIED="1537526703829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_7_4.coverage" NAME="ex_7.4 Coverage Results" MODIFIED="1533244473724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_12c.coverage" NAME="ex_1.12c Coverage Results" MODIFIED="1537540320520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
-    <SUITE FILE_PATH="coverage/iap_1819$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1540804453775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+    <SUITE FILE_PATH="coverage/iap_1819$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1540807252494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_2_11_triplet.coverage" NAME="ex_2.11_triplet Coverage Results" MODIFIED="1540211509479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_4_7_c.coverage" NAME="ex_4.7_c Coverage Results" MODIFIED="1532726917787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8a.coverage" NAME="ex_3.8a Coverage Results" MODIFIED="1537783643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$ex_2_12b_looping_calculate_factorial_sum.coverage" NAME="ex_2.12b_looping_calculate_factorial_sum Coverage Results" MODIFIED="1537536354785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_8_Lists_LuckyNumbers.coverage" NAME="ex6.8_Lists_LuckyNumbers Coverage Results" MODIFIED="1539264533394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
+    <SUITE FILE_PATH="coverage/iap_1819$nested_list.coverage" NAME="nested_list Coverage Results" MODIFIED="1540806962237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_2_1.coverage" NAME="ex_2.1 Coverage Results" MODIFIED="1532692670014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_19.coverage" NAME="ex_1.19 Coverage Results" MODIFIED="1532690166639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_22.coverage" NAME="ex_1.22 Coverage Results" MODIFIED="1537389340374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
@@ -115,27 +118,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="minesweeper.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="minesweeper.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+            <state relative-caret-position="2460">
+              <caret line="142" column="33" lean-forward="false" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
               <folding>
                 <element signature="e#656#754#0" expanded="false" />
                 <element signature="e#1719#2077#0" expanded="false" />
                 <element signature="e#2323#2636#0" expanded="false" />
-                <element signature="e#2832#3481#0" expanded="false" />
-                <element signature="e#3596#4425#0" expanded="false" />
-                <element signature="e#4739#5185#0" expanded="false" />
-                <element signature="e#6254#7175#0" expanded="false" />
-                <element signature="e#7352#7417#0" expanded="false" />
-                <element signature="e#7552#7712#0" expanded="false" />
-                <element signature="e#9560#9761#0" expanded="false" />
-                <element signature="e#9794#10318#0" expanded="false" />
-                <element signature="e#10557#10641#0" expanded="false" />
-                <element signature="e#10671#10885#0" expanded="false" />
-                <element signature="e#11193#11288#0" expanded="false" />
-                <element signature="e#11299#11386#0" expanded="false" />
+                <element signature="e#7053#7974#0" expanded="false" />
+                <element signature="e#8151#8216#0" expanded="false" />
+                <element signature="e#8351#8511#0" expanded="false" />
+                <element signature="e#10359#10560#0" expanded="false" />
+                <element signature="e#10593#11117#0" expanded="false" />
+                <element signature="e#11356#11440#0" expanded="false" />
+                <element signature="e#11470#11684#0" expanded="false" />
+                <element signature="e#11992#12087#0" expanded="false" />
+                <element signature="e#12098#12185#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex9.5_Ackermann.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nested_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Les7_Recursion/nested_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="38" selection-end-column="10" />
+              <folding>
+                <element signature="e#425#429#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -190,11 +212,11 @@
       <find>pr</find>
       <find>neighbors_information</find>
       <find>player_attempts</find>
-      <find>get_all_neighbors_by_current_position</find>
       <find>fields_content</find>
       <find>safe</find>
       <find>won</find>
       <find>print</find>
+      <find>get_all_neighbors_by_current_position</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -203,7 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.11b_Iteration_Palindrome.py" />
         <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.12a_Iteration_CountLetters.py" />
         <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.13_Iteration_CountEvenDigits.py" />
         <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.15_Conditionals_CalculateAge.py" />
@@ -253,6 +274,7 @@
         <option value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/test2.py" />
         <option value="$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py" />
         <option value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/test.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/nested_list.py" />
         <option value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
       </list>
     </option>
@@ -284,7 +306,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,13 +327,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cp" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -353,7 +375,7 @@
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
-      <option name="PARAMETERS" value="20 20 1" />
+      <option name="PARAMETERS" value="1111,0000,0000,0000" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -377,21 +399,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="monamixx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nested_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les7_Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/monamixx.py" />
-      <option name="PARAMETERS" value="AA:85 AB:129 AC:0 AD:130 AE:97 AF:131 AG:1 AH:132 AI:64 AJ:133 AK:2 AL:134 AM:98 AN:135 AO:3 AP:136 AQ:89 AR:137 AS:4 AT:138 AU:99 AV:139 AW:5 AX:140 AY:65 AZ:141 BA:6 BB:142 BC:100 BD:143 BE:7 BF:144 BG:80 BH:145 BI:8 BJ:146 BK:101 BL:147 BM:9 BN:148 BO:66 BP:149 BQ:10 BR:150 BS:102 BT:151 BU:11 BV:152 BW:90 BX:153 BY:12 BZ:154 CA:103 CB:155 CC:13 CD:156 CE:67 CF:157 CG:14 CH:158 CI:104 CJ:159 CK:15 CL:160 CM:87 CN:161 CO:16 CP:162 CQ:105 CR:163 CS:17 CT:164 CU:68 CV:165 CW:18 CX:166 CY:106 CZ:167 DA:19 DB:168 DC:91 DD:169 DE:20 DF:170 DG:107 DH:171 DI:21 DJ:172 DK:69 DL:173 DM:22 DN:174 DO:108 DP:175 DQ:23 DR:176 DS:81 DT:177 DU:24 DV:178 DW:109 DX:179 DY:25 DZ:180 EA:70 EB:181 EC:26 ED:182 EE:110 EF:183 EG:27 EH:184 EI:92 EJ:185 EK:28 EL:186 EM:111 EN:187 EO:29 EP:188 EQ:71 ER:189 ES:30 ET:190 EU:112 EV:191 EW:31 EX:192 EY:84 EZ:193 FA:32 FB:194 FC:113 FD:195 FE:33 FF:196 FG:72 FH:197 FI:34 FJ:198 FK:114 FL:199 FM:35 FN:200 FO:93 FP:201 FQ:36 FR:202 FS:115 FT:203 FU:37 FV:204 FW:73 FX:205 FY:38 FZ:206 GA:116 GB:207 GC:39 GD:208 GE:82 GF:209 GG:40 GH:210 GI:117 GJ:211 GK:41 GL:212 GM:74 GN:213 GO:42 GP:214 GQ:118 GR:215 GS:43 GT:216 GU:94 GV:217 GW:44 GX:218 GY:119 GZ:219 HA:45 HB:220 HC:75 HD:221 HE:46 HF:222 HG:120 HH:223 HI:47 HJ:224 HK:88 HL:225 HM:48 HN:226 HO:121 HP:227 HQ:49 HR:228 HS:76 HT:229 HU:50 HV:230 HW:122 HX:231 HY:51 HZ:232 IA:95 IB:233 IC:52 ID:234 IE:123 IF:235 IG:53 IH:236 II:77 IJ:237 IK:54 IL:238 IM:124 IN:239 IO:55 IP:240 IQ:83 IR:241 IS:56 IT:242 IU:125 IV:243 IW:57 IX:244 IY:78 IZ:245 JA:58 JB:246 JC:126 JD:247 JE:59 JF:248 JG:96 JH:249 JI:60 JJ:250 JK:127 JL:251 JM:61 JN:252 JO:79 JP:253 JQ:62 JR:254 JS:128 JT:255 JU:63 JV:256 JW:86" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les7_Recursion/nested_list.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -477,17 +499,17 @@
       <item index="1" class="java.lang.String" itemvalue="Python.monamix" />
       <item index="2" class="java.lang.String" itemvalue="Python.minesweeper" />
       <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.monamixx" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test2" />
-      <item index="6" class="java.lang.String" itemvalue="Python.reverse_a_list" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.reverse_a_list" />
+      <item index="6" class="java.lang.String" itemvalue="Python.nested_list" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.minesweeper" />
-        <item index="1" class="java.lang.String" itemvalue="Python.reverse_a_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.monamixx" />
+        <item index="1" class="java.lang.String" itemvalue="Python.nested_list" />
+        <item index="2" class="java.lang.String" itemvalue="Python.reverse_a_list" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -526,9 +548,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16801076" sideWeight="0.49485862" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39267352" sideWeight="0.79875" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42802057" sideWeight="0.79875" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.055912595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124678664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -557,13 +579,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assignments/1_Testing _123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les6_Lists/ex6.2_Lists_FibNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -687,13 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -912,27 +920,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/nested_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="e#425#429#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        <state relative-caret-position="2460">
+          <caret line="142" column="33" lean-forward="false" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
           <folding>
             <element signature="e#656#754#0" expanded="false" />
             <element signature="e#1719#2077#0" expanded="false" />
             <element signature="e#2323#2636#0" expanded="false" />
-            <element signature="e#2832#3481#0" expanded="false" />
-            <element signature="e#3596#4425#0" expanded="false" />
-            <element signature="e#4739#5185#0" expanded="false" />
-            <element signature="e#6254#7175#0" expanded="false" />
-            <element signature="e#7352#7417#0" expanded="false" />
-            <element signature="e#7552#7712#0" expanded="false" />
-            <element signature="e#9560#9761#0" expanded="false" />
-            <element signature="e#9794#10318#0" expanded="false" />
-            <element signature="e#10557#10641#0" expanded="false" />
-            <element signature="e#10671#10885#0" expanded="false" />
-            <element signature="e#11193#11288#0" expanded="false" />
-            <element signature="e#11299#11386#0" expanded="false" />
+            <element signature="e#7053#7974#0" expanded="false" />
+            <element signature="e#8151#8216#0" expanded="false" />
+            <element signature="e#8351#8511#0" expanded="false" />
+            <element signature="e#10359#10560#0" expanded="false" />
+            <element signature="e#10593#11117#0" expanded="false" />
+            <element signature="e#11356#11440#0" expanded="false" />
+            <element signature="e#11470#11684#0" expanded="false" />
+            <element signature="e#11992#12087#0" expanded="false" />
+            <element signature="e#12098#12185#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

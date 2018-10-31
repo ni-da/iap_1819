@@ -86,6 +86,7 @@ def fill_content_in_fields():
 # calculates every neighbors by minor calculations
 def get_all_neighbors_by_current_position(currX, currY):
     all_neighbors = []
+    all_neighbors.append((currX, currX))
     x = currX + 1
     y = currY - 1
     if x > 0 and y > 0:
@@ -119,7 +120,7 @@ def get_all_neighbors_by_current_position(currX, currY):
 # added to the player_attempts list.
 def get_all_neighbors_information_by_current_position(currX, currY):
     neighbors = get_all_neighbors_by_current_position(currX, currY)
-    neighbors.append((currX, currY))
+    # neighbors.append((currX, currY))
     for neighbor in neighbors:
         for field in fields_content:
             if neighbor[0] == field[0] and neighbor[1] == field[1]:
@@ -129,23 +130,39 @@ def get_all_neighbors_information_by_current_position(currX, currY):
                         player_inputs.append((field[0], field[1]))
 
 
+def get_all_neighbors_information_by_current_position1(currX, currY):
+    neighbors = get_all_neighbors_by_current_position(currX, currY)
+    # neighbors.append((currX, currY))
+    for neighbor in neighbors:
+        for field in fields_content:
+            if neighbor[0] == field[0] and neighbor[1] == field[1]:
+                if field[2] != "*":
+                    if field not in player_attempts:
+                        player_attempts.append(field)
+                        player_inputs.append((field[0], field[1]))
+                if field[2] == 0:
+                    get_all_neighbors_information_by_current_position1(field[0], field[1])
+    return
+
+
 # It fetches information about every possible neighbor. If a neighbor is 0 if fetches
 # information about it's neighbor.
 # It a neighbor isn't 0, if appends the position and the number to the player_attempts list.
 def get_revealing_field(currX, currY):
-    neighbors = get_all_neighbors_by_current_position(currX, currY)
-    for field in fields_content:
-        if field[0] == currX and field[1] == currY:
-            if field[2] == 0:
-                get_all_neighbors_information_by_current_position(currX, currY)
-                for i in range(len(neighbors)):
-                    if player_attempts[i][2] == 0:
-                        get_all_neighbors_information_by_current_position(player_attempts[i][0],
-                                                                          player_attempts[i][1])
-            else:
-                if field not in player_attempts:
-                    player_attempts.append(field)
-                    player_inputs.append((field[0], field[1]))
+    get_all_neighbors_information_by_current_position1(currX, currY)
+    # neighbors = get_all_neighbors_by_current_position(currX, currY)
+    # for field in fields_content:
+    #     if field[0] == currX and field[1] == currY:
+    #         if field[2] == 0:
+    #             get_all_neighbors_information_by_current_position(currX, currY)
+    #             for i in range(len(neighbors)):
+    #                 if player_attempts[i][2] == 0:
+    #                     get_all_neighbors_information_by_current_position(player_attempts[i][0],
+    #                                                                       player_attempts[i][1])
+    #         else:
+    #             if field not in player_attempts:
+    #                 player_attempts.append(field)
+    #                 player_inputs.append((field[0], field[1]))
 
 
 # prints the gameboard
