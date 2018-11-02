@@ -67,6 +67,8 @@ def generate_game_by_random(gameboard_width, gameboard_length, minesToGenerate):
 # it iterate over every field, and checks on the neighbors of it. On the basis of
 # neighbor's status (mine of not), the number is calculated for every field.
 def fill_content_in_fields():
+    if len(position_mines) == 0:
+        print("")
     for positionRow in all_positions:
         for position in positionRow:
             mines_in_neighborhood = 0
@@ -114,21 +116,6 @@ def get_all_neighbors_by_current_position(currX, currY):
     return all_neighbors
 
 
-# gets all possible neighbors and then checks
-# neighbor by neighbors if it's not a mine, it checks if its already in the
-# player_attempts list. If both tests are passed, the neighbors information is
-# added to the player_attempts list.
-# def get_all_neighbors_information_by_current_position(currX, currY):
-#     neighbors = get_all_neighbors_by_current_position(currX, currY)
-#     # neighbors.append((currX, currY))
-#     for neighbor in neighbors:
-#         for field in fields_content:
-#             if neighbor[0] == field[0] and neighbor[1] == field[1]:
-#                 if field[2] != "*":
-#                     if field not in player_attempts:
-#                         player_attempts.append(field)
-#                         player_inputs.append((field[0], field[1]))
-
 def is_zero_field(currX, currY):
     for field in fields_content:
         if currX == field[0] and currY == field[1]:
@@ -145,9 +132,7 @@ def get_all_neighbors_of_a_zero_field(currX, currY):
                 if neighbor[0] == field[0] and neighbor[1] == field[1]:
                     if field[2] != "*":
                         all_all_neighbours.append((field[0], field[1]))
-                        # print((field[0], field[1]), ":", field[2])
                     if field[2] == 0:
-                        # print("Zero: ", field)
                         get_all_neighbors_of_a_zero_field(neighbor[0], neighbor[1])
     return
 
@@ -158,27 +143,13 @@ def get_all_neighbors_of_a_zero_field(currX, currY):
 def get_revealing_field(currX, currY):
     if is_zero_field(currX, currY):
         get_all_neighbors_of_a_zero_field(currX, currY)
-    # print(all_all_neighbours)
     all_all_neighbours.append((currX, currY))
     for neighbor in all_all_neighbours:
         for field in fields_content:
             if neighbor[0] == field[0] and neighbor[1] == field[1]:
                 if field not in player_attempts:
                     player_attempts.append(field)
-
-    # neighbors = get_all_neighbors_by_current_position(currX, currY)
-    # for field in fields_content:
-    #     if field[0] == currX and field[1] == currY:
-    #         if field[2] == 0:
-    #             get_all_neighbors_information_by_current_position(currX, currY)
-    #             for i in range(len(neighbors)):
-    #                 if player_attempts[i][2] == 0:
-    #                     get_all_neighbors_information_by_current_position(player_attempts[i][0],
-    #                                                                       player_attempts[i][1])
-    #         else:
-    #             if field not in player_attempts:
-    #                 player_attempts.append(field)
-    #                 player_inputs.append((field[0], field[1]))
+                    player_inputs.append((field[0], field[1]))
 
 
 # prints the gameboard
@@ -308,9 +279,6 @@ position_mines = []
 
 player_attempts = []
 player_inputs = []
-
-neighbours_fields = []
-neighbors_information = []
 
 gameboard_length = 0
 gameboard_width = 0

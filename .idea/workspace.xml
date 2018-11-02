@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/testRecursion.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" afterPath="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
-      <change beforePath="$PROJECT_DIR$/Les7_Recursion/nested_list.py" afterPath="$PROJECT_DIR$/Les7_Recursion/nested_list.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +66,7 @@
     <SUITE FILE_PATH="coverage/iap$ex_2_5.coverage" NAME="ex_2.5 Coverage Results" MODIFIED="1537526703829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_7_4.coverage" NAME="ex_7.4 Coverage Results" MODIFIED="1533244473724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_12c.coverage" NAME="ex_1.12c Coverage Results" MODIFIED="1537540320520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
-    <SUITE FILE_PATH="coverage/iap_1819$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1541118461441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+    <SUITE FILE_PATH="coverage/iap_1819$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1541120250247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_2_11_triplet.coverage" NAME="ex_2.11_triplet Coverage Results" MODIFIED="1540211509479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_4_7_c.coverage" NAME="ex_4.7_c Coverage Results" MODIFIED="1532726917787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8a.coverage" NAME="ex_3.8a Coverage Results" MODIFIED="1537783643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
@@ -117,48 +114,24 @@
     <SUITE FILE_PATH="coverage/iap$ex_2_10_binomial_coefficient.coverage" NAME="ex_2.10_binomial_coefficient Coverage Results" MODIFIED="1537533594549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_1_21.coverage" NAME="ex_1.21 Coverage Results" MODIFIED="1537390260125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="nested_list.py" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Les7_Recursion/nested_list.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="377">
-                    <caret line="26" column="69" lean-forward="false" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
-                    <folding>
-                      <element signature="e#425#429#0" expanded="false" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="minesweeper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="113" column="24" lean-forward="true" selection-start-line="113" selection-start-column="24" selection-end-line="113" selection-end-column="24" />
+            <state relative-caret-position="317">
+              <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="27" />
               <folding>
                 <element signature="e#656#754#0" expanded="false" />
                 <element signature="e#1719#2077#0" expanded="false" />
                 <element signature="e#2323#2636#0" expanded="false" />
-                <element signature="e#7643#8564#0" expanded="false" />
-                <element signature="e#8741#8806#0" expanded="false" />
-                <element signature="e#8941#9101#0" expanded="false" />
-                <element signature="e#10949#11150#0" expanded="false" />
-                <element signature="e#11183#11707#0" expanded="false" />
-                <element signature="e#11971#12055#0" expanded="false" />
-                <element signature="e#12085#12299#0" expanded="false" />
-                <element signature="e#12607#12702#0" expanded="false" />
-                <element signature="e#12713#12800#0" expanded="false" />
+                <element signature="e#6063#6984#0" expanded="false" />
+                <element signature="e#7161#7226#0" expanded="false" />
+                <element signature="e#7361#7521#0" expanded="false" />
+                <element signature="e#9369#9570#0" expanded="false" />
+                <element signature="e#9603#10127#0" expanded="false" />
+                <element signature="e#10340#10424#0" expanded="false" />
+                <element signature="e#10454#10668#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -236,12 +209,12 @@
       <find>won</find>
       <find>print</find>
       <find>get_all_neighbors_by_current_position</find>
-      <find>player_inputs</find>
       <find>neighbours_fields</find>
       <find>player_in</find>
       <find>neighbors_information</find>
-      <find>player_attempts</find>
       <find>get_all_neighbors_information_by_current_position</find>
+      <find>player_inputs</find>
+      <find>player_attempts</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -310,7 +283,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -400,7 +373,7 @@
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
-      <option name="PARAMETERS" value="1001,1010,1100,0000,0000" />
+      <option name="PARAMETERS" value="4,4,0" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -566,14 +539,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16801076" sideWeight="0.49485862" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41066837" sideWeight="0.79875" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3541131" sideWeight="0.79875" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.039203085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -927,16 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/nested_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="26" column="69" lean-forward="false" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
-          <folding>
-            <element signature="e#425#429#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -964,23 +927,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/nested_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="26" column="69" lean-forward="false" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+          <folding>
+            <element signature="e#425#429#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="113" column="24" lean-forward="true" selection-start-line="113" selection-start-column="24" selection-end-line="113" selection-end-column="24" />
+        <state relative-caret-position="317">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="27" />
           <folding>
             <element signature="e#656#754#0" expanded="false" />
             <element signature="e#1719#2077#0" expanded="false" />
             <element signature="e#2323#2636#0" expanded="false" />
-            <element signature="e#7643#8564#0" expanded="false" />
-            <element signature="e#8741#8806#0" expanded="false" />
-            <element signature="e#8941#9101#0" expanded="false" />
-            <element signature="e#10949#11150#0" expanded="false" />
-            <element signature="e#11183#11707#0" expanded="false" />
-            <element signature="e#11971#12055#0" expanded="false" />
-            <element signature="e#12085#12299#0" expanded="false" />
-            <element signature="e#12607#12702#0" expanded="false" />
-            <element signature="e#12713#12800#0" expanded="false" />
+            <element signature="e#6063#6984#0" expanded="false" />
+            <element signature="e#7161#7226#0" expanded="false" />
+            <element signature="e#7361#7521#0" expanded="false" />
+            <element signature="e#9369#9570#0" expanded="false" />
+            <element signature="e#9603#10127#0" expanded="false" />
+            <element signature="e#10340#10424#0" expanded="false" />
+            <element signature="e#10454#10668#0" expanded="false" />
           </folding>
         </state>
       </provider>
