@@ -86,7 +86,7 @@ def fill_content_in_fields():
 # calculates every neighbors by minor calculations
 def get_all_neighbors_by_current_position(currX, currY):
     all_neighbors = []
-    all_neighbors.append((currX, currX))
+    # all_neighbors.append((currX, currX))
     x = currX + 1
     y = currY - 1
     if x > 0 and y > 0:
@@ -118,30 +118,37 @@ def get_all_neighbors_by_current_position(currX, currY):
 # neighbor by neighbors if it's not a mine, it checks if its already in the
 # player_attempts list. If both tests are passed, the neighbors information is
 # added to the player_attempts list.
-def get_all_neighbors_information_by_current_position(currX, currY):
-    neighbors = get_all_neighbors_by_current_position(currX, currY)
-    # neighbors.append((currX, currY))
-    for neighbor in neighbors:
-        for field in fields_content:
-            if neighbor[0] == field[0] and neighbor[1] == field[1]:
-                if field[2] != "*":
-                    if field not in player_attempts:
-                        player_attempts.append(field)
-                        player_inputs.append((field[0], field[1]))
+# def get_all_neighbors_information_by_current_position(currX, currY):
+#     neighbors = get_all_neighbors_by_current_position(currX, currY)
+#     # neighbors.append((currX, currY))
+#     for neighbor in neighbors:
+#         for field in fields_content:
+#             if neighbor[0] == field[0] and neighbor[1] == field[1]:
+#                 if field[2] != "*":
+#                     if field not in player_attempts:
+#                         player_attempts.append(field)
+#                         player_inputs.append((field[0], field[1]))
+
+def is_zero_field(currX, currY):
+    for field in fields_content:
+        if currX == field[0] and currY == field[1]:
+            if field[2] == 0:
+                return True
+    return False
 
 
-def get_all_neighbors_information_by_current_position1(currX, currY):
+def get_all_neighbors_of_a_zero_field(currX, currY):
     neighbors = get_all_neighbors_by_current_position(currX, currY)
-    # neighbors.append((currX, currY))
     for neighbor in neighbors:
         for field in fields_content:
-            if neighbor[0] == field[0] and neighbor[1] == field[1]:
-                if field[2] != "*":
-                    if field not in player_attempts:
-                        player_attempts.append(field)
-                        player_inputs.append((field[0], field[1]))
-                if field[2] == 0:
-                    get_all_neighbors_information_by_current_position1(field[0], field[1])
+            if (field[0], field[1]) not in all_all_neighbours:
+                if neighbor[0] == field[0] and neighbor[1] == field[1]:
+                    if field[2] != "*":
+                        all_all_neighbours.append((field[0], field[1]))
+                        # print((field[0], field[1]), ":", field[2])
+                    if field[2] == 0:
+                        # print("Zero: ", field)
+                        get_all_neighbors_of_a_zero_field(neighbor[0], neighbor[1])
     return
 
 
@@ -149,7 +156,16 @@ def get_all_neighbors_information_by_current_position1(currX, currY):
 # information about it's neighbor.
 # It a neighbor isn't 0, if appends the position and the number to the player_attempts list.
 def get_revealing_field(currX, currY):
-    get_all_neighbors_information_by_current_position1(currX, currY)
+    if is_zero_field(currX, currY):
+        get_all_neighbors_of_a_zero_field(currX, currY)
+    # print(all_all_neighbours)
+    all_all_neighbours.append((currX, currY))
+    for neighbor in all_all_neighbours:
+        for field in fields_content:
+            if neighbor[0] == field[0] and neighbor[1] == field[1]:
+                if field not in player_attempts:
+                    player_attempts.append(field)
+
     # neighbors = get_all_neighbors_by_current_position(currX, currY)
     # for field in fields_content:
     #     if field[0] == currX and field[1] == currY:
@@ -283,6 +299,8 @@ def valid_xy_input(x, y):
         return False
     return True
 
+
+all_all_neighbours = []
 
 fields_content = []
 all_positions = []
