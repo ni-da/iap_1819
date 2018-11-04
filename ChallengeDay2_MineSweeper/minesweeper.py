@@ -3,7 +3,7 @@
 #
 # I have implemented all features of the game.
 # I have implemented the bonus features.
-# Bonus checks: not enough arguments provided!
+# Bonus checks: not enough arguments provided! There must be at least 1 mine-free field.
 # * minefieldstring; all rows should be same size. Every character of a row must be
 # a digit. A row can only contain a 0 or 1.
 # * width, length, mines: all 3 inputs must be a digit. The number of mines must be in the
@@ -11,6 +11,14 @@
 # While playing; the provided positions(x,y) must be valid digits, still hidden. (not reveald) and
 # in the range of gameboard.
 import sys, random
+
+
+def is_digit(a):
+    digi = '0123456789'
+    for i in a:
+        if i not in digi:
+            return False
+    return True
 
 
 # reverse a list: used to reverse the minefieldstr
@@ -154,6 +162,8 @@ def get_revealing_field(currX, currY):
 
 # prints the gameboard
 def print_gameboard(l, w, revealing_fields=[]):
+    if 9 < l < 100:
+        print(" ", sep="", end="")
     print("  ", end="")
     for i in range(1, w + 1):
         print("+-", end="")
@@ -175,12 +185,16 @@ def print_gameboard(l, w, revealing_fields=[]):
                 print("| ", end="")
         print("|")
         # print +- after every row
+        if 9 < l < 100:
+            print(" ", sep="", end="")
         print("  ", end="")
         for i in range(1, w + 1):
             print("+-", end="")
         print("+")
 
-    # print horizantal nummbers
+        # print horizantal nummbers
+        if 9 < l < 100:
+            print(" ", sep="", end="")
     print("   ", end="")
     for i in range(1, w + 1):
         print(i, " ", sep="", end="")
@@ -219,7 +233,7 @@ def validate_minefieldstr(minefieldstr):
             print("All rows of minefieldstring should be of same length.")
             return False
         for element in row:
-            if not element.isdigit():
+            if not is_digit(element):
                 print("A minefieldstring should only contain digits.")
                 return False
             else:
@@ -234,13 +248,13 @@ def validate_minefieldarguments(arguments):
     gameboard_length = arguments[1]
     minesToGenerate = arguments[2]
 
-    if not gameboard_length.isdigit():
+    if not is_digit(gameboard_length):
         print("The provided length is not a valid digit.")
         return False
-    if not gameboard_width.isdigit():
+    if not is_digit(gameboard_width):
         print("The provided width is not a valid digit.")
         return False
-    if not minesToGenerate.isdigit():
+    if not is_digit(minesToGenerate):
         print("The provided number of mines is not a valid digit.")
         return False
     if int(minesToGenerate) > int(gameboard_width) * int(gameboard_length):
@@ -257,7 +271,10 @@ def print_arguments_options():
 
 
 def valid_xy_input(x, y):
-    if not x.isdigit() or not y.isdigit():
+    if x == "" or y == "":
+        print("x,y: field can't be empty!")
+        return False
+    if not is_digit(x) or not is_digit(y):
         print(x, ',', y, "field doesn't contain a valid digit! Try another field position.")
         return False
     x = int(x)
@@ -271,6 +288,13 @@ def valid_xy_input(x, y):
     return True
 
 
+def checkMines():
+    if len(position_mines) == gameboard_length * gameboard_width:
+        print("At least a single field should not hold a mine.")
+        sys.exit()
+
+
+# START
 all_all_neighbours = []
 
 fields_content = []
@@ -310,7 +334,7 @@ else:
     print("Provided argumants are not valid!")
     print_arguments_options()
     sys.exit()
-
+checkMines()
 # start game
 fill_content_in_fields()
 print_gameboard(gameboard_length, gameboard_width)
