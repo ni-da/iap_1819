@@ -10,6 +10,9 @@
 # range of width*length.
 # While playing; the provided positions(x,y) must be valid digits, still hidden. (not reveald) and
 # in the range of gameboard.
+# The gameboard looks pretty okay till width = 99 and height = 99
+# At large inputs, it can take long to show on screen. So, wait long enough!
+
 import sys, random
 
 
@@ -162,15 +165,19 @@ def get_revealing_field(currX, currY):
 
 # prints the gameboard
 def print_gameboard(l, w, revealing_fields=[]):
-    if 9 < l < 100:
-        print(" ", sep="", end="")
     print("  ", end="")
     for i in range(1, w + 1):
-        print("+-", end="")
+        if i > 9:
+            print("+--", end="")
+        else:
+            print("+-", end="")
     print("+")
-
+    # print vertical numbers
     for j in range(l, 0, -1):
-        print(j, " ", sep="", end="")
+        if 9 < j < 100:
+            print(j, "", sep="", end="")
+        else:
+            print(j, " ", sep="", end="")
         for i in range(1, w + 1):
             skip_field = False
             # show hints about neighbors
@@ -179,22 +186,29 @@ def print_gameboard(l, w, revealing_fields=[]):
                 y = field[1]
                 content = field[2]  # neighbours
                 if i == x and j == y:
-                    print("|", content, sep="", end="")
+                    if i > 9:
+                        print("| ", content, sep="", end="")
+                    else:
+                        print("|", content, sep="", end="")
                     skip_field = True
             if not skip_field:
-                print("| ", end="")
+                if i > 9:
+                    print("|  ", end="")
+                else:
+                    print("| ", end="")
         print("|")
         # print +- after every row
-        if 9 < l < 100:
-            print(" ", sep="", end="")
+
         print("  ", end="")
         for i in range(1, w + 1):
-            print("+-", end="")
+            if i > 9:
+                print("+--", end="")
+            else:
+                print("+-", end="")
         print("+")
 
         # print horizantal nummbers
-        if 9 < l < 100:
-            print(" ", sep="", end="")
+
     print("   ", end="")
     for i in range(1, w + 1):
         print(i, " ", sep="", end="")
