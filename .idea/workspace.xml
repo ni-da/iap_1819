@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c42b19c-067b-4968-9d60-6d21e5464224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Les2_BasicIteration_turtle/ex_2.21c_Looping_Calculate_double_sum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les4_Functions/ex_4.12_IsPrime.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les4_Functions/ex_4.14_Functions_Intersecting_rectangles.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.11_Strings_Minefield.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.8_convert_to_uppercase.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.9_Strings_Caesar_cipher.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/all_poss_combos_list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/all_possible_combinations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/all_possible_combis_unique_of_length_r.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.10_recursion_subsets.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.11_recursion_collections.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.14_MergeSort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.9_DNA_combinations_1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestSamples/Quicksort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/Extract_message.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/Great_price.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/Has_repetition.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/Is_Heap.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/Is_Special.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/NSum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/StrangeOrder.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/height_boom.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/is_hourglass.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vbExamen/test1.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" />
+      <change beforePath="$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py" afterPath="$PROJECT_DIR$/Les5_Strings_Files/ex5.7_Strings_Clean_spaces.py" />
+      <change beforePath="$PROJECT_DIR$/Les6_Lists/ex6.10_Lists_MagicSquares.py" afterPath="$PROJECT_DIR$/Les6_Lists/ex6.10_Lists_MagicSquares.py" />
+      <change beforePath="$PROJECT_DIR$/Les7_Recursion/ex_9.9_DNA_combinations.py" afterPath="$PROJECT_DIR$/Les7_Recursion/ex9.9_DNA_combinations.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,21 +47,25 @@
     <SUITE FILE_PATH="coverage/iap_1819$ex6_1_Lists_OrderedList.coverage" NAME="ex6.1_Lists_OrderedList Coverage Results" MODIFIED="1539251317489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
     <SUITE FILE_PATH="coverage/iap$ex_2_9b_looping_calculate_product.coverage" NAME="ex_2.9b_looping_calculate_product Coverage Results" MODIFIED="1537532089897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$monamixx.coverage" NAME="monamixx Coverage Results" MODIFIED="1540545507075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
+    <SUITE FILE_PATH="coverage/iap_1819$Is_Special.coverage" NAME="Is_Special Coverage Results" MODIFIED="1542752204789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex5_9_Strings_Caesar_cipher.coverage" NAME="ex5.9_Strings_Caesar_cipher Coverage Results" MODIFIED="1542501432391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_1_16.coverage" NAME="ex_1.16 Coverage Results" MODIFIED="1537190766722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap_1819$reverse_a_list.coverage" NAME="reverse_a_list Coverage Results" MODIFIED="1540592389043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_5_4.coverage" NAME="ex_5.4 Coverage Results" MODIFIED="1532964139768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_20.coverage" NAME="ex_1.20 Coverage Results" MODIFIED="1537366079559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap$ex_2_4.coverage" NAME="ex_2.4 Coverage Results" MODIFIED="1537529408321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_3_13_Iteration_CountEvenDigits.coverage" NAME="ex_3.13_Iteration_CountEvenDigits Coverage Results" MODIFIED="1537794353712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
+    <SUITE FILE_PATH="coverage/iap_1819$all_poss_combos_list.coverage" NAME="all_poss_combos_list Coverage Results" MODIFIED="1542550434664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_2_21c_Looping_Calculate_double_sum.coverage" NAME="ex_2.21c_Looping_Calculate_double_sum Coverage Results" MODIFIED="1542022695825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_3_12a_Iteration_CountLetters.coverage" NAME="ex_3.12a_Iteration_CountLetters Coverage Results" MODIFIED="1537795803505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
-    <SUITE FILE_PATH="coverage/iap_1819$ex5_6_Strings_String_replace.coverage" NAME="ex5.6_Strings_String_replace Coverage Results" MODIFIED="1538400847341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex5_6_Strings_String_replace.coverage" NAME="ex5.6_Strings_String_replace Coverage Results" MODIFIED="1542496549784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_5_7.coverage" NAME="ex_5.7 Coverage Results" MODIFIED="1538402706098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_3_17.coverage" NAME="ex_3.17 Coverage Results" MODIFIED="1532718142717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_7_Conditionals_Leapyear.coverage" NAME="ex_3.7_Conditionals_Leapyear Coverage Results" MODIFIED="1537783469728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap_1819$ex9_3_Recursion_input_withoutRecursion.coverage" NAME="ex9.3_Recursion_input_withoutRecursion Coverage Results" MODIFIED="1540200232768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap_1819$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1540132617601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay1_howNotToFly" />
     <SUITE FILE_PATH="coverage/iap_1819$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1538048147899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex6_10_Lists_MagicSquares.coverage" NAME="ex6.10_Lists_MagicSquares Coverage Results" MODIFIED="1542667255791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
     <SUITE FILE_PATH="coverage/iap$ex_1_17.coverage" NAME="ex_1.17 Coverage Results" MODIFIED="1537190870396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap$2_12a_looping_calculate_factorial.coverage" NAME="2.12a_looping_calculate_factorial Coverage Results" MODIFIED="1537536065240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$catapproval.coverage" NAME="catapproval Coverage Results" MODIFIED="1541290688682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
@@ -42,6 +73,8 @@
     <SUITE FILE_PATH="coverage/iap$ex_7_7.coverage" NAME="ex_7.7 Coverage Results" MODIFIED="1533249484647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$bisqode.coverage" NAME="bisqode Coverage Results" MODIFIED="1540498565983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
     <SUITE FILE_PATH="coverage/iap_1819$ex4_Strings__Write_words.coverage" NAME="ex4_Strings _Write_words Coverage Results" MODIFIED="1538396555302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
+    <SUITE FILE_PATH="coverage/iap_1819$NSum.coverage" NAME="NSum Coverage Results" MODIFIED="1542318377749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_3_12b_Iteration_Anagram.coverage" NAME="ex_3.12b_Iteration_Anagram Coverage Results" MODIFIED="1542027422913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$ex_1_16A.coverage" NAME="ex_1.16A Coverage Results" MODIFIED="1532630562436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_7_1.coverage" NAME="ex_7.1 Coverage Results" MODIFIED="1533132009777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$sapher.coverage" NAME="sapher Coverage Results" MODIFIED="1539393172425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
@@ -50,44 +83,62 @@
     <SUITE FILE_PATH="coverage/iap_1819$ex_6_6_ListsRandoms.coverage" NAME="ex_6.6_ListsRandoms Coverage Results" MODIFIED="1539258267790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
     <SUITE FILE_PATH="coverage/iap$ex_3_11b_Iteration_Palindrome.coverage" NAME="ex_3.11b_Iteration_Palindrome Coverage Results" MODIFIED="1537787061269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$ex_2_6_pyramid.coverage" NAME="ex_2.6_pyramid Coverage Results" MODIFIED="1537528349989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_4_12_IsPrime.coverage" NAME="ex_4.12_IsPrime Coverage Results" MODIFIED="1542489682294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les4_Functions" />
     <SUITE FILE_PATH="coverage/iap$ex_5_9.coverage" NAME="ex_5.9 Coverage Results" MODIFIED="1533047784480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_3_Lists_UniqueElements.coverage" NAME="ex6.3_Lists_UniqueElements Coverage Results" MODIFIED="1539254857040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
-    <SUITE FILE_PATH="coverage/iap_1819$test.coverage" NAME="test Coverage Results" MODIFIED="1540567179841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+    <SUITE FILE_PATH="coverage/iap_1819$all_possible_combinations.coverage" NAME="all_possible_combinations Coverage Results" MODIFIED="1542564952104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
+    <SUITE FILE_PATH="coverage/iap_1819$test.coverage" NAME="test Coverage Results" MODIFIED="1542724397942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$Has_repetition.coverage" NAME="Has_repetition Coverage Results" MODIFIED="1542750546318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
     <SUITE FILE_PATH="coverage/iap$ex_7_2_fibonacci.coverage" NAME="ex_7.2_fibonacci Coverage Results" MODIFIED="1533133979550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$stringToList.coverage" NAME="stringToList Coverage Results" MODIFIED="1541290845719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_2_7_aligned_multiplication.coverage" NAME="ex_2.7_aligned_multiplication Coverage Results" MODIFIED="1537530500831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_4_14_Functions_Intersecting_rectangles.coverage" NAME="ex_4.14_Functions_Intersecting_rectangles Coverage Results" MODIFIED="1542471249840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les4_Functions" />
     <SUITE FILE_PATH="coverage/iap$ex_5_14_Hangman.coverage" NAME="ex_5.14_Hangman Coverage Results" MODIFIED="1533130471253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1537393482073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
     <SUITE FILE_PATH="coverage/iap_1819$analyze_flights.coverage" NAME="analyze_flights Coverage Results" MODIFIED="1540162960103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay1_howNotToFly" />
+    <SUITE FILE_PATH="coverage/iap_1819$Quicksort.coverage" NAME="Quicksort Coverage Results" MODIFIED="1542283676776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestSamples" />
     <SUITE FILE_PATH="coverage/iap_1819$turtle_test_col.coverage" NAME="turtle_test_col Coverage Results" MODIFIED="1540203096780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$examples.coverage" NAME="examples Coverage Results" MODIFIED="1533128889377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_2_8_xy_matrix.coverage" NAME="ex_2.8_xy_matrix Coverage Results" MODIFIED="1537530975891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_3_10_input.coverage" NAME="ex_3.10_input Coverage Results" MODIFIED="1537786061570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap_1819$monamix.coverage" NAME="monamix Coverage Results" MODIFIED="1540545666280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
+    <SUITE FILE_PATH="coverage/iap_1819$is_hourglass.coverage" NAME="is_hourglass Coverage Results" MODIFIED="1542715624387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_5_8_convert_to_uppercase.coverage" NAME="ex_5.8_convert_to_uppercase Coverage Results" MODIFIED="1542501697689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_5_11.coverage" NAME="ex_5.11 Coverage Results" MODIFIED="1533051096667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$ex5_Files_Strings_ReadCount_linePerline.coverage" NAME="ex5_Files_Strings_ReadCount_linePerline Coverage Results" MODIFIED="1538397445264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_5_7.coverage" NAME="ex_5.7 Coverage Results" MODIFIED="1533045039530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_2_5.coverage" NAME="ex_2.5 Coverage Results" MODIFIED="1537526703829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap$ex_7_4.coverage" NAME="ex_7.4 Coverage Results" MODIFIED="1533244473724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_12c.coverage" NAME="ex_1.12c Coverage Results" MODIFIED="1537540320520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+    <SUITE FILE_PATH="coverage/iap_1819$all_possible_combis_unique.coverage" NAME="all_possible_combis_unique Coverage Results" MODIFIED="1542755778033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap_1819$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1541299018950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+    <SUITE FILE_PATH="coverage/iap_1819$Great_price.coverage" NAME="Great_price Coverage Results" MODIFIED="1542754894299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_2_11_triplet.coverage" NAME="ex_2.11_triplet Coverage Results" MODIFIED="1540211509479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex9_14_MergeSort.coverage" NAME="ex9.14_MergeSort Coverage Results" MODIFIED="1542658181222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_4_7_c.coverage" NAME="ex_4.7_c Coverage Results" MODIFIED="1532726917787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8a.coverage" NAME="ex_3.8a Coverage Results" MODIFIED="1537783643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$ex_2_12b_looping_calculate_factorial_sum.coverage" NAME="ex_2.12b_looping_calculate_factorial_sum Coverage Results" MODIFIED="1537536354785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_8_Lists_LuckyNumbers.coverage" NAME="ex6.8_Lists_LuckyNumbers Coverage Results" MODIFIED="1539264533394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
     <SUITE FILE_PATH="coverage/iap_1819$nested_list.coverage" NAME="nested_list Coverage Results" MODIFIED="1541100856775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
+    <SUITE FILE_PATH="coverage/iap_1819$StrangeOrder.coverage" NAME="StrangeOrder Coverage Results" MODIFIED="1542312734137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$Is_Heap.coverage" NAME="Is_Heap Coverage Results" MODIFIED="1542747775705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_4_5_Functions_Even_numbers.coverage" NAME="ex_4.5_Functions_Even_numbers Coverage Results" MODIFIED="1542028090332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les4_Functions" />
     <SUITE FILE_PATH="coverage/iap$ex_2_1.coverage" NAME="ex_2.1 Coverage Results" MODIFIED="1532692670014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex9_10_recursion_subsets.coverage" NAME="ex9.10_recursion_subsets Coverage Results" MODIFIED="1542590026826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_1_19.coverage" NAME="ex_1.19 Coverage Results" MODIFIED="1532690166639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_1_22.coverage" NAME="ex_1.22 Coverage Results" MODIFIED="1537389340374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_7_Lists_ShiftingList.coverage" NAME="ex6.7_Lists_ShiftingList Coverage Results" MODIFIED="1539259732337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
     <SUITE FILE_PATH="coverage/iap_1819$ex_9_9_DNA_combinations.coverage" NAME="ex_9.9_DNA_combinations Coverage Results" MODIFIED="1540214564859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_4__10_Functions_String_functions.coverage" NAME="ex_4..10_Functions_String_functions Coverage Results" MODIFIED="1542043101248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les4_Functions" />
     <SUITE FILE_PATH="coverage/iap$ex_7_8_luckyNr.coverage" NAME="ex_7.8_luckyNr Coverage Results" MODIFIED="1533255038599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$chalc.coverage" NAME="chalc Coverage Results" MODIFIED="1538576166826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex5_11_Strings_Minefield.coverage" NAME="ex5.11_Strings_Minefield Coverage Results" MODIFIED="1542675623799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap$ex_5_1.coverage" NAME="ex_5.1 Coverage Results" MODIFIED="1532958902279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_2_2.coverage" NAME="ex_2.2 Coverage Results" MODIFIED="1537520386095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$sums.coverage" NAME="sums Coverage Results" MODIFIED="1541429207195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
     <SUITE FILE_PATH="coverage/iap$fullLetter.coverage" NAME="fullLetter Coverage Results" MODIFIED="1534210089756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex5_7_Strings_Clean_spaces.coverage" NAME="ex5.7_Strings_Clean_spaces Coverage Results" MODIFIED="1542502161349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex_4_11_Functions_Infinite_sequence.coverage" NAME="ex_4.11_Functions_Infinite_sequence Coverage Results" MODIFIED="1542060310364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les4_Functions" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8c.coverage" NAME="ex_3.8c Coverage Results" MODIFIED="1537784386314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$test.coverage" NAME="test Coverage Results" MODIFIED="1534612786698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv1" />
     <SUITE FILE_PATH="coverage/iap$ex_3_12b_Iteration_Anagram.coverage" NAME="ex_3.12b_Iteration_Anagram Coverage Results" MODIFIED="1537796346606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
@@ -100,8 +151,10 @@
     <SUITE FILE_PATH="coverage/iap$ex_4_8.coverage" NAME="ex_4.8 Coverage Results" MODIFIED="1532728025282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap$ex_3_8b.coverage" NAME="ex_3.8b Coverage Results" MODIFIED="1537783934780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap_1819$Unittests_in_test_solver_py.coverage" NAME="Unittests in test_solver.py Coverage Results" MODIFIED="1538565826155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestSamples" />
+    <SUITE FILE_PATH="coverage/iap_1819$ex9_11_recursion_collections.coverage" NAME="ex9.11_recursion_collections Coverage Results" MODIFIED="1542625018185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_3_15_Conditionals_CalculateAge.coverage" NAME="ex_3.15_Conditionals_CalculateAge Coverage Results" MODIFIED="1537795793849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration" />
     <SUITE FILE_PATH="coverage/iap$ex_1_18.coverage" NAME="ex_1.18 Coverage Results" MODIFIED="1537200145380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les1" />
+    <SUITE FILE_PATH="coverage/iap_1819$Extract_message.coverage" NAME="Extract_message Coverage Results" MODIFIED="1542740492850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
     <SUITE FILE_PATH="coverage/iap$turtle_test_col.coverage" NAME="turtle_test_col Coverage Results" MODIFIED="1537518601864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
     <SUITE FILE_PATH="coverage/iap_1819$ex9_2_Recursion_withoutRecursion.coverage" NAME="ex9.2_Recursion_withoutRecursion Coverage Results" MODIFIED="1540199809683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$turtle_test.coverage" NAME="turtle_test Coverage Results" MODIFIED="1537477796092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
@@ -109,6 +162,7 @@
     <SUITE FILE_PATH="coverage/iap_1819$ex9_6_StringToInt.coverage" NAME="ex9.6_StringToInt Coverage Results" MODIFIED="1540205858294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap$ex_4_7_b.coverage" NAME="ex_4.7_b Coverage Results" MODIFIED="1532718350838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iap_1819$ex6_5_Lists_noComprehension.coverage" NAME="ex6.5_Lists_noComprehension Coverage Results" MODIFIED="1539254658271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les6_Lists" />
+    <SUITE FILE_PATH="coverage/iap_1819$height_boom.coverage" NAME="height_boom Coverage Results" MODIFIED="1542757336845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vbExamen" />
     <SUITE FILE_PATH="coverage/iap_1819$ex9_7_turtle.coverage" NAME="ex9.7_turtle Coverage Results" MODIFIED="1540205206436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les7_Recursion" />
     <SUITE FILE_PATH="coverage/iap_1819$ex1_CountingWords.coverage" NAME="ex1_CountingWords Coverage Results" MODIFIED="1538393732886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Les5_Strings_Files" />
     <SUITE FILE_PATH="coverage/iap_1819$modivi.coverage" NAME="modivi Coverage Results" MODIFIED="1541895701287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments" />
@@ -134,7 +188,108 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NSum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vbExamen/NSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_possible_combis_unique_of_length_r.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Les7_Recursion/all_possible_combis_unique_of_length_r.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extract_message.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vbExamen/Extract_message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sums.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vbExamen/sums.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Is_Heap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vbExamen/Is_Heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="height_boom.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vbExamen/height_boom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Is_Special.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vbExamen/Is_Special.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Great_price.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vbExamen/Great_price.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum_nested_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Les7_Recursion/sum_nested_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverse_a_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,10 +300,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Error</find>
-      <find>1003336</find>
-      <find>Delayed minutes: 14899564</find>
-      <find>Columbus, MS: Golden Triangle Regional</find>
       <find>AA</find>
       <find>get_name</find>
       <find>Inhabitant A:is_not:5 (id: 1) is the new Monarch</find>
@@ -174,6 +325,10 @@
       <find>isdi</find>
       <find>mode</find>
       <find>is_digit</find>
+      <find>tom marvolo riddle and i am lord voldemort are anagrams</find>
+      <find>'d vhfuhw phvvdjh'</find>
+      <find>XX XXX XX</find>
+      <find>112121211</find>
       <find>print</find>
     </findStrings>
   </component>
@@ -183,38 +338,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex1_CountingWords.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex2_pretty_print.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex3_Strings_Palindrome_sentences.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex4_Strings _Write_words.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/test_read.txt" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5_Files_Strings_ReadCount_linePerline.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py" />
-        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.1_Strings_CountingWords.py" />
-        <option value="$PROJECT_DIR$/TestSamples/Solver.py" />
-        <option value="$PROJECT_DIR$/TestSamples/test_solver.py" />
-        <option value="$PROJECT_DIR$/Assignments/chalc.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.1_Lists_OrderedList.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.2_Lists_FibNumbers.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.4_Lists_comprehension.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.5_Lists_noComprehension.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.3_Lists_UniqueElements.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex_6.6_ListsRandoms.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.8_Lists_LuckyNumbers.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.10_Lists_MagicSquares.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/test.py" />
-        <option value="$PROJECT_DIR$/Les6_Lists/ex6.7_Lists_ShiftingList.py" />
-        <option value="$PROJECT_DIR$/Assignments/sapher.py" />
-        <option value="$PROJECT_DIR$/Assignments/bisqode.py" />
-        <option value="$PROJECT_DIR$/ChallengeDay1_howNotToFly/testData.csv" />
-        <option value="$PROJECT_DIR$/ChallengeDay1_howNotToFly/test.py" />
-        <option value="$PROJECT_DIR$/ChallengeDay1_howNotToFly/analyze_flights.py" />
-        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.2_a_Recursion_withoutRecursion.py" />
-        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.2_Recursion_withoutRecursion.py" />
-        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.3_Recursion_input_withoutRecursion.py" />
-        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py" />
-        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.7_turtle.py" />
         <option value="$PROJECT_DIR$/Les7_Recursion/ex9.6_StringToInt.py" />
         <option value="$PROJECT_DIR$/Les2_BasicIteration_turtle/ex_2.11_triplet.py" />
         <option value="$PROJECT_DIR$/Les7_Recursion/ex_9.9_DNA_combinations.py" />
@@ -234,6 +357,38 @@
         <option value="$PROJECT_DIR$/vbExamen/sums.py" />
         <option value="$PROJECT_DIR$/Assignments/modivi.py" />
         <option value="$PROJECT_DIR$/Les2_BasicIteration_turtle/ex_2.21c_Looping_Calculate_double_sum.py" />
+        <option value="$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.12b_Iteration_Anagram.py" />
+        <option value="$PROJECT_DIR$/Les4_Functions/ex_4.5_Functions_Even_numbers.py" />
+        <option value="$PROJECT_DIR$/Les4_Functions/ex_4..10_Functions_String_functions.py" />
+        <option value="$PROJECT_DIR$/Les4_Functions/ex_4.10_Functions_String_functions.py" />
+        <option value="$PROJECT_DIR$/Les4_Functions/ex_4.11_Functions_Infinite_sequence.py" />
+        <option value="$PROJECT_DIR$/TestSamples/Quicksort.py" />
+        <option value="$PROJECT_DIR$/vbExamen/StrangeOrder.py" />
+        <option value="$PROJECT_DIR$/vbExamen/NSum.py" />
+        <option value="$PROJECT_DIR$/Les4_Functions/ex_4.14_Functions_Intersecting_rectangles.py" />
+        <option value="$PROJECT_DIR$/Les4_Functions/ex_4.12_IsPrime.py" />
+        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py" />
+        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex_5.8_convert_to_uppercase.py" />
+        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.9_Strings_Caesar_cipher.py" />
+        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.7_Strings_Clean_spaces.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/all_poss_combos_list.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/all_possible_combinations.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.9_DNA_combinations_1.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.10_recursion_subsets.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.11_recursion_collections.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/all_possible_combis_unique.py" />
+        <option value="$PROJECT_DIR$/Les7_Recursion/ex9.14_MergeSort.py" />
+        <option value="$PROJECT_DIR$/Les6_Lists/ex6.10_Lists_MagicSquares.py" />
+        <option value="$PROJECT_DIR$/Les5_Strings_Files/ex5.11_Strings_Minefield.py" />
+        <option value="$PROJECT_DIR$/vbExamen/is_hourglass.py" />
+        <option value="$PROJECT_DIR$/vbExamen/test.py" />
+        <option value="$PROJECT_DIR$/vbExamen/test1.py" />
+        <option value="$PROJECT_DIR$/vbExamen/Has_repetition.py" />
+        <option value="$PROJECT_DIR$/vbExamen/Extract_message.py" />
+        <option value="$PROJECT_DIR$/vbExamen/Is_Special.py" />
+        <option value="$PROJECT_DIR$/vbExamen/Great_price.py" />
+        <option value="$PROJECT_DIR$/vbExamen/Is_Heap.py" />
+        <option value="$PROJECT_DIR$/vbExamen/height_boom.py" />
       </list>
     </option>
   </component>
@@ -244,8 +399,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="976" />
-    <option name="width" value="631" />
+    <option name="x" value="-7" />
+    <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectView">
@@ -263,7 +418,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,11 +425,27 @@
               <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
+              <item name="Les4_Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
+              <item name="Les7_Recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iap_1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iap_1819" type="462c0819:PsiDirectoryNode" />
+              <item name="vbExamen" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,60 +478,98 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex_2.21c_Looping_Calculate_double_sum">
-    <configuration name="ex_2.21c_Looping_Calculate_double_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.height_boom">
+    <configuration name="Great_price" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les2_BasicIteration_turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vbExamen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les2_BasicIteration_turtle/ex_2.21c_Looping_Calculate_double_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vbExamen/Great_price.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="minesweeper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Has_repetition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vbExamen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py" />
-      <option name="PARAMETERS" value="25 25 10" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vbExamen/Has_repetition.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="modivi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Is_Special" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vbExamen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="iap" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/modivi.py" />
-      <option name="PARAMETERS" value="'(a(a(a(a#+b#)+b(a#+b#))+b(a(a#+b#)+b(a#+b#)))+b(a(a(a#+b#)+b(a#+b#))+b(a(a#+b#)+b(a#+b#))))' ba" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vbExamen/Is_Special.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="all_possible_combis_unique" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les7_Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="iap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\NidaI\Documents\GitHub\iap_1819\Les7_Recursion\all_possible_combis_unique_of_length_r.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="height_boom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vbExamen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="iap" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vbExamen/height_boom.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -404,60 +612,22 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sum_nested_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Les7_Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="iap" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Les7_Recursion/sum_nested_list.py" />
-      <option name="PARAMETERS" value="'[3,4,5]'" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="sums" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vbExamen" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="iap" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vbExamen/sums.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.sapher" />
       <item index="1" class="java.lang.String" itemvalue="Python.monamix" />
-      <item index="2" class="java.lang.String" itemvalue="Python.minesweeper" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sum_nested_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sums" />
-      <item index="5" class="java.lang.String" itemvalue="Python.modivi" />
-      <item index="6" class="java.lang.String" itemvalue="Python.ex_2.21c_Looping_Calculate_double_sum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Has_repetition" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Is_Special" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Great_price" />
+      <item index="5" class="java.lang.String" itemvalue="Python.all_possible_combis_unique" />
+      <item index="6" class="java.lang.String" itemvalue="Python.height_boom" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex_2.21c_Looping_Calculate_double_sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.modivi" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sums" />
-        <item index="3" class="java.lang.String" itemvalue="Python.minesweeper" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sum_nested_list" />
+        <item index="0" class="java.lang.String" itemvalue="Python.height_boom" />
+        <item index="1" class="java.lang.String" itemvalue="Python.all_possible_combis_unique" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Great_price" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Is_Special" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Has_repetition" />
       </list>
     </recent_temporary>
   </component>
@@ -491,26 +661,27 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16801076" sideWeight="0.49485862" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26863754" sideWeight="0.79875" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15745501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16801076" sideWeight="0.49485862" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44215938" sideWeight="0.79875" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16902314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252688" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20430107" sideWeight="0.5051414" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29032257" sideWeight="0.5051414" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32594523" sideWeight="0.4975" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.010752688" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,270 +692,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="27" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vbExamen/test.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="42" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/compute_factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/fib_nr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/monamixx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.7_Conditionals_Leapyear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.6_marksToGrade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.4_explain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.12a_Iteration_CountLetters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/testRecursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.13_Iteration_CountEvenDigits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="85" column="37" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/sapher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.5_Ackermann.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/monamix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/chalc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/stringToList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/nested_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les7_Recursion/sum_nested_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/catapproval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vbExamen/sums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChallengeDay2_MineSweeper/minesweeper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="362" column="14" lean-forward="false" selection-start-line="362" selection-start-column="14" selection-end-line="362" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/bisqode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1420">
-          <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.8a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.8b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.8c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.10_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.11a_Iteration_ReverseString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.1_Strings_CountingWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.2_Strings_pretty_print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.3_Strings_Palindrome_sentences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.4_Strings _Write_words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.5_Files_Strings_ReadCount_linePerline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex_5.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Les6_Lists/ex6.1_Lists_OrderedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les6_Lists/ex6.2_Lists_FibNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -834,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Les6_Lists/ex6.10_Lists_MagicSquares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Les6_Lists/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -859,6 +771,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="3663" column="8" lean-forward="false" selection-start-line="3663" selection-start-column="8" selection-end-line="3663" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -866,11 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#212#1971#0" expanded="false" />
-            <element signature="e#2008#2182#0" expanded="false" />
-            <element signature="e#2277#2379#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,6 +793,307 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les3_Conditions_Unbounded_Iteration/ex_3.12b_Iteration_Anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les4_Functions/ex_4.11_Functions_Infinite_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSamples/Quicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les4_Functions/ex_4.14_Functions_Intersecting_rectangles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les4_Functions/ex_4.12_IsPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.6_Strings_String_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.8_convert_to_uppercase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.7_Strings_Clean_spaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.9_Strings_Caesar_cipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/fullLetter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/StrangeOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/Woordzoeker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.10_recursion_subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.9_DNA_combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.9_DNA_combinations_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/all_poss_combos_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/all_possible_combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.11_recursion_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/ex9.14_MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les6_Lists/ex6.10_Lists_MagicSquares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les5_Strings_Files/ex5.11_Strings_Minefield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/is_hourglass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les4_Functions/ex_4.5_Functions_Even_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les4_Functions/ex_4.10_Functions_String_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/Has_repetition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/stringToList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/reverse_a_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/sum_nested_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/Is_Special.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/Great_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/Extract_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/sums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/NSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Les7_Recursion/all_possible_combis_unique_of_length_r.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/height_boom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vbExamen/Is_Heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
